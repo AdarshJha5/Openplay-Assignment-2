@@ -1,0 +1,1516 @@
+START_DATE,END_DATE,START_TIME,END_TIME,RIDE_DURATION_IN_MINS,CATEGORY,START,STOP,MILES,PURPOSE
+01-01-2016,01-01-2016,21:11:00,21:17:00,6,Business,Fort Pierce,Fort Pierce,5.1,"Meal/Entertain"
+02-01-2016,02-01-2016,01:25:00,01:37:00,12,Business,Fort Pierce,Fort Pierce,5,"Not Defined
+"
+02-01-2016,02-01-2016,20:25:00,20:38:00,13,Business,Fort Pierce,Fort Pierce,4.8,"Errand/Supplies"
+05-01-2016,05-01-2016,17:31:00,17:45:00,14,Business,Fort Pierce,Fort Pierce,4.7,"Meeting"
+06-01-2016,06-01-2016,14:42:00,15:49:00,67,Business,Fort Pierce,West Palm Beach,63.7,"Customer Visit"
+06-01-2016,06-01-2016,17:15:00,17:19:00,4,Business,West Palm Beach,West Palm Beach,4.3,"Meal/Entertain"
+06-01-2016,06-01-2016,17:30:00,17:35:00,5,Business,West Palm Beach,Palm Beach,7.1,"Meeting"
+07-01-2016,07-01-2016,13:27:00,13:33:00,6,Business,Cary,Cary,0.8,"Meeting"
+10-01-2016,10-01-2016,08:05:00,08:25:00,20,Business,Cary,Morrisville,8.3,"Meeting"
+10-01-2016,10-01-2016,12:17:00,12:44:00,27,Business,Jamaica,New York,16.5,"Customer Visit"
+10-01-2016,10-01-2016,15:08:00,15:51:00,43,Business,New York,Queens,10.8,"Meeting"
+10-01-2016,10-01-2016,18:18:00,18:53:00,35,Business,Elmhurst,New York,7.5,"Meeting"
+10-01-2016,10-01-2016,19:12:00,19:32:00,20,Business,Midtown,East Harlem,6.2,"Meeting"
+11-01-2016,11-01-2016,08:55:00,09:21:00,26,Business,East Harlem,NoMad,6.4,"Temporary Site"
+11-01-2016,11-01-2016,11:56:00,12:03:00,7,Business,Flatiron District,Midtown,1.6,"Errand/Supplies"
+11-01-2016,11-01-2016,13:32:00,13:46:00,14,Business,Midtown,Midtown East,1.7,"Meal/Entertain"
+11-01-2016,11-01-2016,14:30:00,14:43:00,13,Business,Midtown East,Midtown,1.9,"Meal/Entertain"
+12-01-2016,12-01-2016,12:33:00,12:49:00,16,Business,Midtown,Hudson Square,1.9,"Meal/Entertain"
+12-01-2016,12-01-2016,12:53:00,13:09:00,16,Business,Hudson Square,Lower Manhattan,4,"Meal/Entertain"
+12-01-2016,12-01-2016,14:42:00,14:56:00,14,Business,Lower Manhattan,Hudson Square,1.8,"Errand/Supplies"
+12-01-2016,12-01-2016,15:13:00,15:28:00,15,Business,Hudson Square,Hell's Kitchen,2.4,"Customer Visit"
+12-01-2016,12-01-2016,15:42:00,15:54:00,12,Business,Hell's Kitchen,Midtown,2,"Errand/Supplies"
+12-01-2016,12-01-2016,16:02:00,17:00:00,58,Business,New York,Queens County,15.1,"Meeting"
+13-01-2016,13-01-2016,13:54:00,14:07:00,13,Business,Downtown,Gulfton,11.2,"Meeting"
+13-01-2016,13-01-2016,15:00:00,15:28:00,28,Business,Gulfton,Downtown,11.8,"Meeting"
+14-01-2016,14-01-2016,16:29:00,17:05:00,36,Business,Houston,Houston,21.9,"Customer Visit"
+14-01-2016,14-01-2016,21:39:00,21:45:00,6,Business,Eagan Park,Jamestown Court,3.9,"Errand/Supplies"
+15-01-2016,15-01-2016,00:41:00,01:01:00,20,Business,Morrisville,Cary,8,"Errand/Supplies"
+15-01-2016,15-01-2016,11:43:00,12:03:00,20,Business,Cary,Durham,10.4,"Meal/Entertain"
+15-01-2016,15-01-2016,13:26:00,13:44:00,18,Business,Durham,Cary,10.4,"Meal/Entertain"
+18-01-2016,18-01-2016,14:55:00,15:06:00,11,Business,Cary,Cary,4.8,"Meal/Entertain"
+18-01-2016,18-01-2016,16:13:00,16:24:00,11,Business,Farmington Woods,Whitebridge,4.7,"Meal/Entertain"
+19-01-2016,19-01-2016,09:09:00,09:23:00,14,Business,Whitebridge,Lake Wellingborough,7.2,"Not Defined
+"
+19-01-2016,19-01-2016,10:55:00,11:09:00,14,Business,Lake Wellingborough,Whitebridge,7.6,"Temporary Site"
+20-01-2016,20-01-2016,10:36:00,11:11:00,35,Business,Cary,Raleigh,17.1,"Meeting"
+20-01-2016,20-01-2016,11:48:00,12:19:00,31,Business,Fayetteville Street,Umstead,15.1,"Meeting"
+20-01-2016,20-01-2016,13:25:00,14:19:00,54,Business,Raleigh,Cary,40.2,"Customer Visit"
+21-01-2016,21-01-2016,14:25:00,14:29:00,4,Business,Cary,Cary,1.6,"Errand/Supplies"
+21-01-2016,21-01-2016,14:43:00,14:51:00,8,Business,Cary,Cary,2.4,"Meal/Entertain"
+21-01-2016,21-01-2016,16:01:00,16:06:00,5,Business,Cary,Cary,1,"Meal/Entertain"
+26-01-2016,26-01-2016,10:41:00,10:50:00,9,Business,Whitebridge,Hazelwood,2,"Meal/Entertain"
+26-01-2016,26-01-2016,12:33:00,12:41:00,8,Business,Hazelwood,Whitebridge,2.3,"Errand/Supplies"
+26-01-2016,26-01-2016,16:24:00,16:32:00,8,Business,Whitebridge,Westpark Place,1.9,"Errand/Supplies"
+26-01-2016,26-01-2016,17:17:00,17:22:00,5,Business,Cary,Cary,1.4,"Errand/Supplies"
+26-01-2016,26-01-2016,17:27:00,17:29:00,2,Business,Cary,Cary,0.5,"Errand/Supplies"
+27-01-2016,27-01-2016,09:24:00,09:31:00,7,Business,Cary,Cary,1.8,"Meeting"
+27-01-2016,27-01-2016,10:19:00,10:48:00,29,Business,Cary,Raleigh,18.7,"Customer Visit"
+27-01-2016,27-01-2016,12:34:00,12:44:00,10,Business,Fairmont,Meredith Townes,3.4,"Customer Visit"
+27-01-2016,27-01-2016,14:05:00,14:13:00,8,Business,Raleigh,Raleigh,2.7,"Customer Visit"
+27-01-2016,27-01-2016,14:46:00,15:08:00,22,Business,Raleigh,Cary,12.9,"Customer Visit"
+28-01-2016,28-01-2016,12:28:00,13:00:00,32,Business,Cary,Raleigh,19,"Temporary Site"
+28-01-2016,28-01-2016,15:11:00,15:31:00,20,Business,Meredith Townes,Leesville Hollow,14.7,"Meeting"
+28-01-2016,28-01-2016,16:21:00,16:51:00,30,Business,Raleigh,Cary,15.7,"Meeting"
+29-01-2016,29-01-2016,09:31:00,09:45:00,14,Business,Cary,Cary,4.6,"Customer Visit"
+29-01-2016,29-01-2016,10:56:00,11:07:00,11,Business,Cary,Cary,5.2,"Meeting"
+29-01-2016,29-01-2016,11:43:00,12:03:00,20,Business,Cary,Durham,10.4,"Meeting"
+29-01-2016,29-01-2016,13:24:00,13:47:00,23,Business,Durham,Cary,10.1,"Meeting"
+29-01-2016,29-01-2016,18:31:00,18:52:00,21,Business,Cary,Apex,5.8,"Errand/Supplies"
+29-01-2016,29-01-2016,21:21:00,21:40:00,19,Business,Apex,Cary,5.5,"Meal/Entertain"
+30-01-2016,30-01-2016,16:21:00,16:33:00,12,Business,Cary,Apex,5.7,"Errand/Supplies"
+30-01-2016,30-01-2016,18:09:00,18:24:00,15,Business,Apex,Cary,5.7,"Customer Visit"
+01-02-2016,01-02-2016,10:35:00,11:15:00,40,Business,Cary,Chapel Hill,19.4,"Customer Visit"
+01-02-2016,01-02-2016,12:10:00,12:43:00,33,Business,Chapel Hill,Cary,23.3,"Customer Visit"
+01-02-2016,01-02-2016,12:56:00,13:07:00,11,Business,Northwoods,Whitebridge,3.9,"Meal/Entertain"
+02-02-2016,02-02-2016,13:04:00,13:23:00,19,Business,Whitebridge,Williamsburg Manor,8.3,"Meeting"
+02-02-2016,02-02-2016,13:51:00,14:06:00,15,Business,Cary,Cary,6,"Errand/Supplies"
+02-02-2016,02-02-2016,14:38:00,14:42:00,4,Business,Cary,Cary,1.6,"Errand/Supplies"
+04-02-2016,04-02-2016,08:40:00,09:01:00,21,Business,Cary,Morrisville,5.2,"Errand/Supplies"
+04-02-2016,04-02-2016,09:37:00,10:09:00,32,Business,Morrisville,Cary,9.7,"Meal/Entertain"
+04-02-2016,04-02-2016,10:26:00,10:32:00,6,Business,Cary,Cary,1.6,"Meal/Entertain"
+04-02-2016,04-02-2016,15:59:00,16:03:00,4,Business,Cary,Cary,1.1,"Meal/Entertain"
+04-02-2016,04-02-2016,16:35:00,16:39:00,4,Business,Cary,Cary,1.6,"Meal/Entertain"
+04-02-2016,04-02-2016,18:04:00,18:31:00,27,Business,Whitebridge,Macgregor Downs,9,"Meeting"
+04-02-2016,04-02-2016,20:36:00,20:55:00,19,Business,Cary,Cary,7.7,"Meeting"
+05-02-2016,05-02-2016,11:47:00,12:07:00,20,Business,Cary,Durham,10.4,"Meeting"
+05-02-2016,05-02-2016,13:22:00,13:41:00,19,Business,Durham,Cary,10.4,"Meeting"
+06-02-2016,06-02-2016,16:20:00,16:53:00,33,Business,Cary,Raleigh,11.4,"Between Offices"
+06-02-2016,06-02-2016,18:57:00,19:21:00,24,Business,Raleigh,Cary,9,"Errand/Supplies"
+06-02-2016,06-02-2016,19:28:00,19:37:00,9,Business,Edgehill Farms,Whitebridge,3.2,"Meal/Entertain"
+07-02-2016,07-02-2016,16:49:00,17:01:00,12,Business,Cary,Apex,5.6,"Errand/Supplies"
+07-02-2016,07-02-2016,18:03:00,18:17:00,14,Business,Apex,Cary,5.7,"Customer Visit"
+07-02-2016,07-02-2016,18:39:00,18:53:00,14,Business,Cary,Morrisville,6.1,"Temporary Site"
+07-02-2016,07-02-2016,20:22:00,20:40:00,18,Business,Morrisville,Cary,6.1,"Meeting"
+08-02-2016,08-02-2016,12:57:00,13:08:00,11,Business,Whitebridge,Edgehill Farms,4.3,"Meal/Entertain"
+08-02-2016,08-02-2016,14:00:00,14:10:00,10,Business,Edgehill Farms,Whitebridge,2.7,"Meal/Entertain"
+09-02-2016,09-02-2016,10:54:00,11:07:00,13,Personal,Whitebridge,Northwoods,5.3,"Not Defined
+"
+09-02-2016,09-02-2016,11:43:00,11:50:00,7,Personal,Northwoods,Tanglewood,3,"Not Defined
+"
+09-02-2016,09-02-2016,13:36:00,13:52:00,16,Personal,Tanglewood,Preston,5.1,"Not Defined
+"
+09-02-2016,09-02-2016,13:58:00,14:02:00,4,Personal,Preston,Whitebridge,1.5,"Not Defined
+"
+09-02-2016,09-02-2016,18:55:00,19:11:00,16,Business,Cary,Morrisville,6.1,"Not Defined
+"
+09-02-2016,09-02-2016,20:24:00,20:40:00,16,Business,Morrisville,Cary,6.1,"Meal/Entertain"
+11-02-2016,11-02-2016,16:28:00,17:10:00,42,Business,Cary,Raleigh,17.3,"Meal/Entertain"
+11-02-2016,11-02-2016,17:49:00,18:10:00,21,Business,Eastgate,Walnut Terrace,5.7,"Meal/Entertain"
+11-02-2016,11-02-2016,18:24:00,18:46:00,22,Business,Raleigh,Morrisville,13.5,"Temporary Site"
+11-02-2016,11-02-2016,20:36:00,20:51:00,15,Business,Morrisville,Cary,6.1,"Temporary Site"
+12-02-2016,12-02-2016,08:21:00,08:42:00,21,Business,Cary,Durham,8.5,"Temporary Site"
+12-02-2016,12-02-2016,10:45:00,10:52:00,7,Business,Durham,Morrisville,2.6,"Temporary Site"
+12-02-2016,12-02-2016,11:14:00,11:35:00,21,Business,Morrisville,Raleigh,17,"Customer Visit"
+12-02-2016,12-02-2016,13:02:00,13:36:00,34,Business,Raleigh,Cary,18,"Meeting"
+12-02-2016,12-02-2016,14:49:00,15:06:00,17,Business,Cary,Morrisville,8.4,"Meeting"
+12-02-2016,12-02-2016,15:33:00,16:06:00,33,Business,Morrisville,Cary,11.5,"Customer Visit"
+13-02-2016,13-02-2016,14:21:00,14:41:00,20,Business,Cary,Morrisville,8.9,"Meeting"
+13-02-2016,14-02-2016,23:45:00,00:01:00,16,Personal,East Elmhurst,Jackson Heights,2.7,"Not Defined
+"
+14-02-2016,14-02-2016,00:50:00,01:00:00,10,Personal,Jackson Heights,East Elmhurst,1.8,"Not Defined
+"
+14-02-2016,14-02-2016,14:07:00,14:40:00,33,Business,East Elmhurst,New York,8.1,"Meeting"
+14-02-2016,14-02-2016,14:46:00,15:03:00,17,Business,Midtown,Midtown West,2,"Meeting"
+14-02-2016,14-02-2016,16:35:00,17:02:00,27,Business,New York,Long Island City,13,"Meeting"
+14-02-2016,14-02-2016,17:06:00,17:29:00,23,Business,Long Island City,Jamaica,13.9,"Meeting"
+16-02-2016,16-02-2016,03:21:00,04:13:00,52,Business,Katunayaka,Unknown Location,43.7,"Customer Visit"
+16-02-2016,16-02-2016,08:29:00,09:34:00,65,Business,Unknown Location,Colombo,14.1,"Not Defined
+"
+16-02-2016,16-02-2016,10:31:00,10:41:00,10,Business,Colombo,Colombo,2.6,"Not Defined
+"
+16-02-2016,16-02-2016,11:32:00,12:02:00,30,Business,Colombo,Colombo,4.5,"Not Defined
+"
+16-02-2016,16-02-2016,12:39:00,12:42:00,3,Business,Colombo,Colombo,1.7,"Not Defined
+"
+16-02-2016,16-02-2016,13:43:00,13:55:00,12,Business,Colombo,Colombo,1.8,"Temporary Site"
+16-02-2016,16-02-2016,16:34:00,17:10:00,36,Business,Colombo,Colombo,6,"Not Defined
+"
+16-02-2016,16-02-2016,17:17:00,17:26:00,9,Business,Colombo,Nugegoda,1.1,"Meal/Entertain"
+16-02-2016,16-02-2016,17:40:00,17:44:00,4,Business,Nugegoda,Unknown Location,3.6,"Errand/Supplies"
+17-02-2016,17-02-2016,13:18:00,14:04:00,46,Business,Unknown Location,Colombo,14.7,"Temporary Site"
+17-02-2016,17-02-2016,15:17:00,15:22:00,5,Business,Colombo,Colombo,1.7,"Meal/Entertain"
+17-02-2016,17-02-2016,15:33:00,16:17:00,44,Business,Colombo,Katunayaka,21.4,"Temporary Site"
+17-02-2016,17-02-2016,16:38:00,16:43:00,5,Business,Katunayaka,Katunayaka,0.5,"Errand/Supplies"
+18-02-2016,18-02-2016,14:03:00,14:45:00,42,Business,Unknown Location,Islamabad,12.7,"Temporary Site"
+18-02-2016,18-02-2016,15:16:00,15:31:00,15,Business,Islamabad,Unknown Location,6,"Temporary Site"
+18-02-2016,18-02-2016,18:44:00,18:58:00,14,Business,Unknown Location,Islamabad,5.2,"Customer Visit"
+18-02-2016,18-02-2016,19:27:00,20:08:00,41,Business,Islamabad,Unknown Location,10,"Meeting"
+19-02-2016,19-02-2016,10:21:00,10:48:00,27,Business,Unknown Location,Islamabad,7.6,"Meeting"
+19-02-2016,19-02-2016,11:20:00,11:26:00,6,Personal,Islamabad,Islamabad,1.5,"Not Defined
+"
+19-02-2016,19-02-2016,11:45:00,11:50:00,5,Personal,Islamabad,Islamabad,1,"Not Defined
+"
+19-02-2016,19-02-2016,12:09:00,12:27:00,18,Business,Islamabad,Unknown Location,7.3,"Temporary Site"
+19-02-2016,19-02-2016,16:26:00,16:45:00,19,Business,Unknown Location,Islamabad,3.5,"Not Defined
+"
+19-02-2016,19-02-2016,17:09:00,17:20:00,11,Business,Islamabad,Islamabad,4.2,"Not Defined
+"
+19-02-2016,19-02-2016,20:08:00,20:30:00,22,Personal,Islamabad,Unknown Location,13.6,"Not Defined
+"
+20-02-2016,20-02-2016,07:59:00,08:32:00,33,Personal,Unknown Location,Islamabad,14.4,"Not Defined
+"
+20-02-2016,20-02-2016,10:48:00,10:56:00,8,Personal,Islamabad,Islamabad,3,"Not Defined
+"
+20-02-2016,20-02-2016,11:45:00,11:53:00,8,Personal,Islamabad,Islamabad,1.5,"Not Defined
+"
+20-02-2016,20-02-2016,12:41:00,13:17:00,36,Business,Islamabad,Rawalpindi,18.4,"Not Defined
+"
+20-02-2016,20-02-2016,14:50:00,15:54:00,64,Business,Rawalpindi,Rawalpindi,23.1,"Meeting"
+20-02-2016,20-02-2016,16:59:00,17:54:00,55,Personal,Rawalpindi,Unknown Location,16.5,"Not Defined
+"
+21-02-2016,21-02-2016,09:07:00,09:46:00,39,Business,Unknown Location,Islamabad,14.5,"Not Defined
+"
+21-02-2016,21-02-2016,11:39:00,11:43:00,4,Business,Unknown Location,Islamabad,2.4,"Errand/Supplies"
+21-02-2016,21-02-2016,11:47:00,12:01:00,14,Business,Islamabad,Islamabad,4.6,"Errand/Supplies"
+21-02-2016,21-02-2016,12:13:00,12:35:00,22,Business,Islamabad,Unknown Location,8.8,"Meal/Entertain"
+21-02-2016,21-02-2016,14:36:00,15:03:00,27,Business,Unknown Location,Islamabad,13,"Temporary Site"
+21-02-2016,21-02-2016,15:14:00,15:31:00,17,Business,Islamabad,Noorpur Shahan,8.1,"Temporary Site"
+21-02-2016,21-02-2016,15:36:00,15:41:00,5,Business,Noorpur Shahan,Unknown Location,2.2,"Meal/Entertain"
+21-02-2016,21-02-2016,23:15:00,23:52:00,37,Business,Unknown Location,Rawalpindi,20,"Meeting"
+22-02-2016,22-02-2016,21:54:00,22:09:00,15,Business,Morrisville,Cary,8.1,"Customer Visit"
+24-02-2016,24-02-2016,14:30:00,14:35:00,5,Business,Whitebridge,Preston,1.5,"Not Defined
+"
+24-02-2016,24-02-2016,15:19:00,15:25:00,6,Business,Preston,Whitebridge,1.7,"Errand/Supplies"
+25-02-2016,25-02-2016,16:27:00,16:35:00,8,Business,Whitebridge,Heritage Pines,3.1,"Errand/Supplies"
+25-02-2016,25-02-2016,16:47:00,17:02:00,15,Business,Heritage Pines,Whitebridge,3.2,"Errand/Supplies"
+25-02-2016,25-02-2016,17:16:00,17:36:00,20,Business,Whitebridge,Tanglewood,6,"Meal/Entertain"
+25-02-2016,25-02-2016,18:22:00,18:39:00,17,Business,Tanglewood,Whitebridge,5.8,"Meal/Entertain"
+26-02-2016,26-02-2016,09:06:00,09:29:00,23,Business,Whitebridge,Westpark Place,6.3,"Not Defined
+"
+26-02-2016,26-02-2016,11:05:00,11:11:00,6,Personal,Westpark Place,Whitebridge,1.7,"Not Defined
+"
+26-02-2016,26-02-2016,11:35:00,11:59:00,24,Business,Cary,Durham,10.6,"Meeting"
+26-02-2016,26-02-2016,13:01:00,13:24:00,23,Business,Durham,Cary,9.9,"Meeting"
+26-02-2016,26-02-2016,14:38:00,14:46:00,8,Personal,Whitebridge,Westpark Place,1.9,"Not Defined
+"
+26-02-2016,26-02-2016,15:00:00,15:18:00,18,Personal,Westpark Place,Hazelwood,4.2,"Not Defined
+"
+26-02-2016,26-02-2016,17:01:00,17:12:00,11,Personal,Hazelwood,Whitebridge,2,"Not Defined
+"
+28-02-2016,28-02-2016,05:22:00,05:38:00,16,Business,Whitebridge,Waverly Place,7.7,"Meeting"
+28-02-2016,28-02-2016,09:26:00,09:42:00,16,Business,Waverly Place,Whitebridge,6.8,"Meeting"
+29-02-2016,29-02-2016,11:07:00,11:14:00,7,Personal,Whitebridge,Westpark Place,2.1,"Not Defined
+"
+29-02-2016,29-02-2016,11:30:00,11:40:00,10,Business,Cary,Apex,3.8,"Meeting"
+29-02-2016,29-02-2016,12:36:00,12:48:00,12,Business,Apex,Cary,5.6,"Meeting"
+29-02-2016,29-02-2016,14:55:00,15:03:00,8,Business,Whitebridge,Hazelwood,2.6,"Not Defined
+"
+29-02-2016,29-02-2016,16:40:00,17:00:00,20,Business,Hazelwood,Whitebridge,6.6,"Customer Visit"
+01-03-2016,01-03-2016,18:47:00,19:10:00,23,Business,Whitebridge,Wayne Ridge,8,"Meal/Entertain"
+01-03-2016,01-03-2016,21:27:00,21:45:00,18,Business,Wayne Ridge,Whitebridge,8,"Meeting"
+03-03-2016,03-03-2016,09:45:00,09:52:00,7,Personal,Whitebridge,Westpark Place,2.2,"Not Defined
+"
+03-03-2016,03-03-2016,11:04:00,11:10:00,6,Business,Westpark Place,Whitebridge,2.3,"Errand/Supplies"
+03-03-2016,03-03-2016,14:44:00,14:58:00,14,Business,Whitebridge,Northwoods,5.2,"Meal/Entertain"
+03-03-2016,03-03-2016,15:27:00,15:48:00,21,Business,Cary,Raleigh,7.6,"Customer Visit"
+03-03-2016,03-03-2016,16:02:00,16:42:00,40,Business,Raleigh,Cary,17.3,"Meeting"
+04-03-2016,04-03-2016,07:47:00,08:06:00,19,Business,Cary,Durham,9.9,"Meeting"
+04-03-2016,04-03-2016,09:46:00,10:03:00,17,Business,Durham,Cary,9.9,"Customer Visit"
+04-03-2016,04-03-2016,11:46:00,12:06:00,20,Business,Cary,Durham,10.4,"Meeting"
+04-03-2016,04-03-2016,13:03:00,13:25:00,22,Business,Durham,Cary,10.9,"Meeting"
+04-03-2016,04-03-2016,13:40:00,14:09:00,29,Business,Cary,Raleigh,15.7,"Customer Visit"
+04-03-2016,04-03-2016,15:56:00,16:08:00,12,Business,Raleigh,Raleigh,4.9,"Meal/Entertain"
+04-03-2016,04-03-2016,16:16:00,16:22:00,6,Business,Fayetteville Street,Depot Historic District,0.8,"Errand/Supplies"
+04-03-2016,04-03-2016,16:43:00,17:12:00,29,Business,Raleigh,Cary,13.5,"Meeting"
+04-03-2016,04-03-2016,19:02:00,19:08:00,6,Business,Cary,Morrisville,1.9,"Temporary Site"
+04-03-2016,04-03-2016,19:16:00,19:25:00,9,Business,Morrisville,Cary,2,"Meal/Entertain"
+05-03-2016,05-03-2016,11:44:00,11:59:00,15,Business,Cary,Morrisville,6.5,"Meal/Entertain"
+05-03-2016,05-03-2016,12:57:00,13:12:00,15,Personal,Weston,Weston,4.2,"Not Defined
+"
+05-03-2016,05-03-2016,14:08:00,14:18:00,10,Personal,Morrisville,Cary,3.5,"Not Defined
+"
+05-03-2016,05-03-2016,14:39:00,15:01:00,22,Business,Whitebridge,Wayne Ridge,7.8,"Meal/Entertain"
+05-03-2016,05-03-2016,16:52:00,17:13:00,21,Business,Cary,Morrisville,7.8,"Meal/Entertain"
+05-03-2016,05-03-2016,17:23:00,17:34:00,11,Business,Morrisville,Cary,3.9,"Meal/Entertain"
+07-03-2016,07-03-2016,09:10:00,09:20:00,10,Business,Whitebridge,Edgehill Farms,2.8,"Errand/Supplies"
+07-03-2016,07-03-2016,09:23:00,09:47:00,24,Business,Cary,Raleigh,12.4,"Customer Visit"
+07-03-2016,07-03-2016,12:10:00,12:26:00,16,Business,Fayetteville Street,Meredith Townes,5.9,"Customer Visit"
+07-03-2016,07-03-2016,13:57:00,14:18:00,21,Business,Meredith Townes,Leesville Hollow,9.4,"Meeting"
+07-03-2016,07-03-2016,15:19:00,15:45:00,26,Business,Raleigh,Cary,11.9,"Between Offices"
+08-03-2016,08-03-2016,14:38:00,14:55:00,17,Business,Whitebridge,Waverly Place,7.2,"Between Offices"
+08-03-2016,08-03-2016,15:35:00,16:00:00,25,Business,Waverly Place,Whitebridge,7.6,"Meal/Entertain"
+08-03-2016,08-03-2016,16:13:00,16:25:00,12,Personal,Whitebridge,Whitebridge,1.6,"Not Defined
+"
+10-03-2016,10-03-2016,03:36:00,03:53:00,17,Business,Cary,Morrisville,8.4,"Meeting"
+10-03-2016,10-03-2016,10:08:00,10:37:00,29,Business,East Austin,West University,12.8,"Meeting"
+10-03-2016,10-03-2016,14:39:00,14:55:00,16,Business,West University,South Congress,2.3,"Not Defined
+"
+10-03-2016,10-03-2016,16:18:00,16:28:00,10,Business,South Congress,Arts District,1.6,"Not Defined
+"
+11-03-2016,11-03-2016,09:47:00,09:59:00,12,Business,The Drag,Congress Ave District,2,"Meal/Entertain"
+11-03-2016,11-03-2016,10:29:00,10:36:00,7,Business,Congress Ave District,Downtown,0.8,"Not Defined
+"
+11-03-2016,11-03-2016,11:57:00,12:04:00,7,Business,Downtown,Red River District,1.2,"Not Defined
+"
+11-03-2016,11-03-2016,13:43:00,13:51:00,8,Business,Red River District,Downtown,1,"Not Defined
+"
+11-03-2016,11-03-2016,19:21:00,19:35:00,14,Business,South Congress,The Drag,2.1,"Not Defined
+"
+12-03-2016,12-03-2016,09:13:00,09:22:00,9,Business,The Drag,South Congress,2.2,"Not Defined
+"
+12-03-2016,12-03-2016,18:27:00,18:37:00,10,Personal,South Congress,The Drag,1.9,"Not Defined
+"
+13-03-2016,13-03-2016,09:07:00,09:37:00,30,Business,The Drag,Convention Center District,5.7,"Meal/Entertain"
+13-03-2016,13-03-2016,18:23:00,18:43:00,20,Business,South Congress,North Austin,8.4,"Meal/Entertain"
+13-03-2016,13-03-2016,20:07:00,20:28:00,21,Business,Georgian Acres,The Drag,6.2,"Meal/Entertain"
+13-03-2016,13-03-2016,20:39:00,20:58:00,19,Business,The Drag,North Austin,10.5,"Meal/Entertain"
+13-03-2016,13-03-2016,21:11:00,21:23:00,12,Business,North Austin,Coxville,7.2,"Meal/Entertain"
+13-03-2016,13-03-2016,22:19:00,22:39:00,20,Business,Coxville,The Drag,12.5,"Not Defined
+"
+14-03-2016,14-03-2016,08:34:00,08:49:00,15,Business,The Drag,South Congress,2,"Errand/Supplies"
+14-03-2016,14-03-2016,18:39:00,18:55:00,16,Business,South Congress,The Drag,2.7,"Not Defined
+"
+15-03-2016,15-03-2016,08:45:00,08:57:00,12,Business,The Drag,Convention Center District,2,"Meal/Entertain"
+15-03-2016,15-03-2016,20:48:00,21:01:00,13,Business,Downtown,The Drag,2.8,"Meal/Entertain"
+16-03-2016,16-03-2016,11:34:00,11:45:00,11,Business,The Drag,Congress Ave District,1.7,"Meal/Entertain"
+16-03-2016,16-03-2016,14:44:00,14:55:00,11,Business,Convention Center District,West University,2,"Not Defined
+"
+16-03-2016,16-03-2016,18:43:00,18:56:00,13,Business,West University,Congress Ave District,2.1,"Meal/Entertain"
+17-03-2016,17-03-2016,00:33:00,00:44:00,11,Personal,Downtown,The Drag,1.7,"Not Defined
+"
+17-03-2016,17-03-2016,12:52:00,15:11:00,139,Business,Austin,Katy,136,"Customer Visit"
+17-03-2016,17-03-2016,15:16:00,15:58:00,42,Business,Katy,Houston,30.2,"Meeting"
+17-03-2016,17-03-2016,17:20:00,18:02:00,42,Business,Midtown,Alief,15.5,"Meal/Entertain"
+17-03-2016,17-03-2016,18:47:00,19:09:00,22,Personal,Houston,Houston,4.9,"Not Defined
+"
+17-03-2016,17-03-2016,20:57:00,21:28:00,31,Personal,Houston,Houston,12.6,"Not Defined
+"
+17-03-2016,17-03-2016,21:48:00,22:04:00,16,Personal,Sharpstown,Midtown,10.4,"Not Defined
+"
+18-03-2016,18-03-2016,07:15:00,07:21:00,6,Business,Midtown,Midtown,1.1,"Meal/Entertain"
+18-03-2016,18-03-2016,08:35:00,08:43:00,8,Business,Midtown,Midtown,1.1,"Meal/Entertain"
+18-03-2016,18-03-2016,18:24:00,19:08:00,44,Business,Midtown,Sharpstown,13.2,"Meeting"
+18-03-2016,18-03-2016,19:23:00,19:29:00,6,Business,Sharpstown,Sharpstown,1,"Errand/Supplies"
+18-03-2016,18-03-2016,21:01:00,21:15:00,14,Business,Sharpstown,Midtown,9.2,"Customer Visit"
+19-03-2016,19-03-2016,09:10:00,09:25:00,15,Business,Midtown,Sharpstown,9.4,"Meal/Entertain"
+19-03-2016,19-03-2016,12:50:00,13:13:00,23,Business,Houston,Sugar Land,12,"Customer Visit"
+19-03-2016,19-03-2016,14:01:00,14:57:00,56,Business,Sugar Land,Houston,35.1,"Customer Visit"
+19-03-2016,19-03-2016,15:34:00,16:38:00,64,Business,Houston,Galveston,36.5,"Meal/Entertain"
+19-03-2016,19-03-2016,17:17:00,17:32:00,15,Business,Galveston,Port Bolivar,3.1,"Meal/Entertain"
+19-03-2016,19-03-2016,17:37:00,17:47:00,10,Business,Port Bolivar,Port Bolivar,2.1,"Errand/Supplies"
+19-03-2016,19-03-2016,17:52:00,18:00:00,8,Business,Port Bolivar,Port Bolivar,1.2,"Not Defined
+"
+19-03-2016,19-03-2016,18:53:00,19:29:00,36,Business,Port Bolivar,Galveston,7.5,"Meeting"
+19-03-2016,19-03-2016,19:33:00,20:39:00,66,Business,Galveston,Houston,57,"Customer Visit"
+20-03-2016,20-03-2016,07:37:00,07:48:00,11,Business,Midtown,Washington Avenue,5.9,"Meeting"
+20-03-2016,20-03-2016,11:42:00,11:56:00,14,Business,Washington Avenue,Midtown,6.2,"Meeting"
+20-03-2016,20-03-2016,17:08:00,17:34:00,26,Business,Midtown,Sharpstown,10.4,"Not Defined
+"
+20-03-2016,20-03-2016,18:34:00,18:40:00,6,Personal,Sharpstown,Briar Meadow,1.2,"Not Defined
+"
+20-03-2016,20-03-2016,18:45:00,19:06:00,21,Business,Briar Meadow,Midtown,9.6,"Customer Visit"
+21-03-2016,21-03-2016,10:21:00,10:26:00,5,Personal,Midtown,Downtown,1,"Not Defined
+"
+21-03-2016,21-03-2016,16:05:00,16:13:00,8,Business,Downtown,Midtown,0.9,"Meal/Entertain"
+21-03-2016,21-03-2016,18:59:00,19:15:00,16,Business,Midtown,Sharpstown,8.8,"Not Defined
+"
+21-03-2016,21-03-2016,20:18:00,20:55:00,37,Business,Sharpstown,Midtown,25.6,"Meal/Entertain"
+22-03-2016,22-03-2016,06:17:00,06:43:00,26,Business,Midtown,Greater Greenspoint,23,"Meal/Entertain"
+22-03-2016,22-03-2016,12:06:00,12:24:00,18,Personal,Morrisville,Cary,8.1,"Not Defined
+"
+22-03-2016,22-03-2016,19:12:00,19:25:00,13,Personal,Whitebridge,Whitebridge,1.4,"Not Defined
+"
+23-03-2016,23-03-2016,14:37:00,14:42:00,5,Personal,Whitebridge,Preston,1.7,"Not Defined
+"
+23-03-2016,23-03-2016,14:53:00,14:59:00,6,Personal,Preston,Whitebridge,1.6,"Not Defined
+"
+24-03-2016,24-03-2016,19:47:00,19:54:00,7,Personal,Whitebridge,Westpark Place,2,"Not Defined
+"
+24-03-2016,24-03-2016,20:34:00,20:40:00,6,Business,Westpark Place,Whitebridge,2.2,"Not Defined
+"
+25-03-2016,25-03-2016,13:24:00,16:22:00,178,Business,Cary,Latta,144,"Customer Visit"
+25-03-2016,25-03-2016,16:52:00,22:22:00,330,Business,Latta,Jacksonville,310.3,"Customer Visit"
+25-03-2016,26-03-2016,22:54:00,01:39:00,105,Business,Jacksonville,Kissimmee,201,"Meeting"
+26-03-2016,26-03-2016,14:05:00,14:29:00,24,Personal,Couples Glen,Isles of Buena Vista,6.7,"Not Defined
+"
+26-03-2016,26-03-2016,15:19:00,15:49:00,30,Personal,Kissimmee,Orlando,8.8,"Not Defined
+"
+26-03-2016,26-03-2016,16:26:00,16:30:00,4,Personal,Lake Reams,Lake Reams,1.2,"Not Defined
+"
+27-03-2016,27-03-2016,00:31:00,00:40:00,9,Business,Lake Reams,Lake Reams,2.1,"Errand/Supplies"
+27-03-2016,27-03-2016,01:11:00,01:23:00,12,Business,Orlando,Kissimmee,6.6,"Meal/Entertain"
+27-03-2016,27-03-2016,15:31:00,15:56:00,25,Business,Kissimmee,Orlando,6.1,"Customer Visit"
+27-03-2016,27-03-2016,21:26:00,21:41:00,15,Personal,Orlando,Orlando,6.9,"Not Defined
+"
+27-03-2016,27-03-2016,23:04:00,23:18:00,14,Personal,Orlando,Kissimmee,7.3,"Not Defined
+"
+28-03-2016,28-03-2016,12:29:00,12:42:00,13,Personal,Kissimmee,Orlando,3.6,"Not Defined
+"
+28-03-2016,28-03-2016,19:30:00,20:23:00,53,Personal,Couples Glen,Vista East,27.2,"Not Defined
+"
+28-03-2016,28-03-2016,22:55:00,23:26:00,31,Personal,Orlando,Kissimmee,25.7,"Not Defined
+"
+29-03-2016,29-03-2016,15:27:00,16:11:00,44,Personal,Kissimmee,Orlando,13.6,"Not Defined
+"
+29-03-2016,29-03-2016,18:20:00,18:39:00,19,Personal,Sand Lake Commons,Sky Lake,6.2,"Not Defined
+"
+29-03-2016,29-03-2016,20:29:00,20:44:00,15,Personal,Sky Lake,Sand Lake Commons,6,"Not Defined
+"
+29-03-2016,29-03-2016,23:04:00,23:21:00,17,Personal,Orlando,Kissimmee,13.8,"Not Defined
+"
+30-03-2016,30-03-2016,22:05:00,22:55:00,50,Business,Orlando,Kissimmee,28.8,"Meal/Entertain"
+31-03-2016,31-03-2016,12:47:00,13:22:00,35,Business,Kissimmee,Orlando,16.1,"Temporary Site"
+31-03-2016,31-03-2016,14:37:00,15:09:00,32,Business,Orlando,Kissimmee,16.4,"Meal/Entertain"
+01-04-2016,01-04-2016,13:43:00,14:01:00,18,Business,Kissimmee,Kissimmee,11,"Meeting"
+01-04-2016,01-04-2016,14:36:00,15:24:00,48,Business,Kissimmee,Orlando,15.5,"Customer Visit"
+01-04-2016,01-04-2016,16:01:00,16:49:00,48,Business,Orlando,Kissimmee,20.3,"Meeting"
+01-04-2016,01-04-2016,16:52:00,16:57:00,5,Personal,Kissimmee,Kissimmee,0.7,"Not Defined
+"
+02-04-2016,02-04-2016,08:48:00,09:04:00,16,Personal,Kissimmee,Kissimmee,5.5,"Not Defined
+"
+02-04-2016,02-04-2016,11:01:00,11:16:00,15,Personal,Kissimmee,Kissimmee,5.1,"Not Defined
+"
+02-04-2016,02-04-2016,12:21:00,14:47:00,146,Business,Kissimmee,Daytona Beach,77.3,"Customer Visit"
+02-04-2016,02-04-2016,16:57:00,18:09:00,72,Business,Daytona Beach,Jacksonville,80.5,"Customer Visit"
+02-04-2016,02-04-2016,19:38:00,22:36:00,178,Business,Jacksonville,Ridgeland,174.2,"Customer Visit"
+02-04-2016,03-04-2016,23:11:00,01:34:00,104,Business,Ridgeland,Florence,144,"Meeting"
+03-04-2016,03-04-2016,02:00:00,04:16:00,136,Business,Florence,Cary,159.3,"Meeting"
+05-04-2016,05-04-2016,21:39:00,21:55:00,16,Business,Whitebridge,Wayne Ridge,7.9,"Meal/Entertain"
+06-04-2016,06-04-2016,00:19:00,00:39:00,20,Business,Wayne Ridge,Whitebridge,8,"Meal/Entertain"
+07-04-2016,07-04-2016,18:20:00,18:39:00,19,Business,Cary,Morrisville,6.1,"Meal/Entertain"
+07-04-2016,07-04-2016,19:45:00,20:00:00,15,Business,Morrisville,Cary,6.1,"Errand/Supplies"
+08-04-2016,08-04-2016,12:30:00,12:48:00,18,Business,Cary,Durham,10.5,"Meeting"
+08-04-2016,08-04-2016,13:34:00,13:51:00,17,Business,Durham,Cary,8.7,"Meal/Entertain"
+08-04-2016,08-04-2016,13:55:00,14:03:00,8,Business,Westpark Place,Whitebridge,1.8,"Errand/Supplies"
+08-04-2016,08-04-2016,14:43:00,15:20:00,37,Business,Cary,Raleigh,19.1,"Meeting"
+08-04-2016,08-04-2016,16:05:00,16:47:00,42,Business,Raleigh,Cary,18.6,"Meeting"
+12-04-2016,12-04-2016,09:15:00,09:26:00,11,Business,Whitebridge,Edgehill Farms,2.8,"Errand/Supplies"
+12-04-2016,12-04-2016,09:34:00,09:53:00,19,Business,Cary,Raleigh,8.9,"Meeting"
+12-04-2016,12-04-2016,10:58:00,11:18:00,20,Business,Meredith,Cedar Hill,7.5,"Customer Visit"
+12-04-2016,12-04-2016,12:22:00,12:44:00,22,Business,Raleigh,Morrisville,15.9,"Meeting"
+12-04-2016,12-04-2016,13:42:00,14:01:00,19,Business,Morrisville,Cary,6.5,"Meal/Entertain"
+14-04-2016,14-04-2016,07:29:00,08:09:00,40,Business,Cary,Holly Springs,15.3,"Temporary Site"
+14-04-2016,14-04-2016,16:00:00,16:43:00,43,Business,Holly Springs,Cary,13.7,"Temporary Site"
+15-04-2016,15-04-2016,11:36:00,12:07:00,31,Business,Cary,Raleigh,11.9,"Temporary Site"
+15-04-2016,15-04-2016,12:29:00,12:32:00,3,Business,Meredith Townes,Harden Place,1.4,"Errand/Supplies"
+15-04-2016,15-04-2016,14:31:00,15:01:00,30,Business,Raleigh,Cary,15.2,"Meeting"
+16-04-2016,16-04-2016,12:59:00,13:17:00,18,Business,Cary,Morrisville,6,"Errand/Supplies"
+16-04-2016,16-04-2016,15:10:00,15:26:00,16,Business,Morrisville,Cary,6.1,"Meal/Entertain"
+19-04-2016,19-04-2016,17:44:00,18:08:00,24,Business,Whitebridge,Wayne Ridge,8.2,"Meal/Entertain"
+19-04-2016,19-04-2016,19:57:00,20:19:00,22,Business,Wayne Ridge,Whitebridge,8,"Meal/Entertain"
+22-04-2016,22-04-2016,08:25:00,09:04:00,39,Business,Cary,Raleigh,13.6,"Meeting"
+22-04-2016,22-04-2016,10:10:00,10:40:00,30,Business,Raleigh,Cary,22.5,"Meeting"
+22-04-2016,22-04-2016,12:08:00,12:28:00,20,Business,Cary,Durham,10.4,"Meeting"
+22-04-2016,22-04-2016,13:02:00,13:26:00,24,Business,Durham,Cary,10,"Meeting"
+23-04-2016,23-04-2016,17:03:00,17:16:00,13,Business,Whitebridge,Tanglewood,6,"Meal/Entertain"
+23-04-2016,23-04-2016,18:49:00,19:05:00,16,Business,Tanglewood,Whitebridge,6.5,"Meal/Entertain"
+24-04-2016,24-04-2016,19:07:00,19:16:00,9,Business,Cary,Morrisville,3.1,"Errand/Supplies"
+24-04-2016,24-04-2016,19:46:00,19:52:00,6,Business,Chessington,Chessington,1.9,"Errand/Supplies"
+24-04-2016,24-04-2016,21:41:00,21:50:00,9,Business,Morrisville,Cary,4.2,"Between Offices"
+27-04-2016,27-04-2016,13:30:00,13:40:00,10,Business,Whitebridge,Burtrose,4.9,"Between Offices"
+27-04-2016,27-04-2016,14:13:00,14:25:00,12,Business,Burtrose,Whitebridge,4.8,"Between Offices"
+28-04-2016,28-04-2016,12:09:00,12:34:00,25,Business,Cary,Raleigh,12.4,"Customer Visit"
+28-04-2016,28-04-2016,13:30:00,13:49:00,19,Business,Raleigh,Cary,32.8,"Customer Visit"
+28-04-2016,28-04-2016,22:10:00,22:28:00,18,Business,Morrisville,Cary,5.5,"Customer Visit"
+29-04-2016,29-04-2016,11:44:00,12:01:00,17,Business,Cary,Durham,9.9,"Meeting"
+29-04-2016,29-04-2016,13:13:00,13:34:00,21,Business,Durham,Cary,10,"Meeting"
+29-04-2016,29-04-2016,18:46:00,19:18:00,32,Business,Cary,Durham,14.2,"Customer Visit"
+29-04-2016,29-04-2016,22:44:00,23:19:00,35,Business,Durham,Cary,18.2,"Meeting"
+30-04-2016,30-04-2016,18:42:00,18:57:00,15,Business,Whitebridge,Waverly Place,7.7,"Meal/Entertain"
+30-04-2016,30-04-2016,22:16:00,22:34:00,18,Business,Waverly Place,Whitebridge,6.8,"Not Defined
+"
+01-05-2016,01-05-2016,13:45:00,13:53:00,8,Business,Whitebridge,Westpark Place,2.1,"Meal/Entertain"
+01-05-2016,01-05-2016,14:26:00,14:31:00,5,Business,Westpark Place,Whitebridge,2.3,"Not Defined
+"
+01-05-2016,01-05-2016,17:33:00,17:45:00,12,Business,Whitebridge,Tanglewood,6.2,"Between Offices"
+01-05-2016,01-05-2016,17:54:00,18:10:00,16,Business,Tanglewood,Parkway,7.5,"Meeting"
+01-05-2016,01-05-2016,22:38:00,22:49:00,11,Business,Parkway,Whitebridge,3.1,"Errand/Supplies"
+02-05-2016,02-05-2016,14:14:00,14:21:00,7,Business,Whitebridge,Westpark Place,2.2,"Errand/Supplies"
+02-05-2016,02-05-2016,15:37:00,15:48:00,11,Business,Westpark Place,Whitebridge,3.9,"Meal/Entertain"
+03-05-2016,03-05-2016,22:20:00,22:28:00,8,Business,Morrisville,Cary,2.5,"Meal/Entertain"
+04-05-2016,04-05-2016,15:16:00,15:37:00,21,Business,Cary,Morrisville,8.7,"Meal/Entertain"
+04-05-2016,04-05-2016,20:55:00,21:14:00,19,Business,Mcvan,Capitol One,14.5,"Errand/Supplies"
+04-05-2016,04-05-2016,21:30:00,21:36:00,6,Business,Capitol One,University District,4.5,"Meal/Entertain"
+04-05-2016,04-05-2016,22:19:00,22:27:00,8,Business,University District,Capitol One,5,"Meal/Entertain"
+05-05-2016,05-05-2016,21:24:00,21:36:00,12,Business,Seattle,Redmond,14.2,"Meal/Entertain"
+05-05-2016,05-05-2016,22:34:00,22:40:00,6,Business,Redmond,Bellevue,2.9,"Errand/Supplies"
+05-05-2016,06-05-2016,23:55:00,00:08:00,13,Business,Bellevue,Seattle,12.9,"Meeting"
+06-05-2016,06-05-2016,05:47:00,06:02:00,15,Business,Capitol One,Mcvan,14.4,"Meeting"
+06-05-2016,06-05-2016,16:45:00,16:59:00,14,Business,Chapel Hill,Morrisville,17,"Meeting"
+06-05-2016,06-05-2016,17:18:00,17:44:00,26,Business,Morrisville,Cary,7.9,"Customer Visit"
+09-05-2016,09-05-2016,06:08:00,06:25:00,17,Business,Cary,Morrisville,8.4,"Customer Visit"
+09-05-2016,09-05-2016,14:39:00,15:06:00,27,Business,San Francisco,Palo Alto,20.5,"Between Offices"
+09-05-2016,09-05-2016,17:58:00,18:26:00,28,Business,Palo Alto,Sunnyvale,9.8,"Customer Visit"
+09-05-2016,09-05-2016,19:35:00,19:59:00,24,Business,Sunnyvale,Newark,17.6,"Customer Visit"
+10-05-2016,10-05-2016,09:03:00,09:20:00,17,Business,Newark,Menlo Park,9.3,"Customer Visit"
+10-05-2016,10-05-2016,17:19:00,17:31:00,12,Business,Menlo Park,Newark,7.9,"Customer Visit"
+11-05-2016,11-05-2016,08:35:00,09:12:00,37,Business,Newark,San Francisco,25.6,"Meeting"
+11-05-2016,11-05-2016,21:47:00,22:04:00,17,Business,Morrisville,Cary,8.1,"Meeting"
+14-05-2016,14-05-2016,18:35:00,18:39:00,4,Business,Cary,Morrisville,3.1,"Meal/Entertain"
+14-05-2016,14-05-2016,23:01:00,23:05:00,4,Business,Morrisville,Cary,3.1,"Meal/Entertain"
+17-05-2016,17-05-2016,13:15:00,13:23:00,8,Business,Whitebridge,Preston,2.8,"Errand/Supplies"
+17-05-2016,17-05-2016,13:56:00,14:08:00,12,Business,Preston,Westpark Place,2.7,"Errand/Supplies"
+17-05-2016,17-05-2016,14:34:00,14:40:00,6,Business,Westpark Place,Whitebridge,1.9,"Errand/Supplies"
+18-05-2016,18-05-2016,09:11:00,09:41:00,30,Business,Cary,Morrisville,8.4,"Customer Visit"
+18-05-2016,18-05-2016,13:00:00,13:02:00,2,Business,Morrisville,Raleigh,7.6,"Customer Visit"
+19-05-2016,19-05-2016,14:37:00,15:01:00,24,Business,Old City,Parkway Museums,2.9,"Meal/Entertain"
+20-05-2016,20-05-2016,10:56:00,11:07:00,11,Business,Old City,Hog Island,11.2,"Meeting"
+20-05-2016,20-05-2016,15:43:00,16:12:00,29,Business,Morrisville,Cary,8.2,"Meal/Entertain"
+22-05-2016,22-05-2016,15:39:00,15:46:00,7,Business,Cary,Morrisville,3,"Meal/Entertain"
+22-05-2016,22-05-2016,18:46:00,18:53:00,7,Business,Morrisville,Cary,2.5,"Meal/Entertain"
+23-05-2016,23-05-2016,20:19:00,20:27:00,8,Business,Whitebridge,Savon Height,3.6,"Meal/Entertain"
+23-05-2016,23-05-2016,21:09:00,21:21:00,12,Business,Savon Height,Whitebridge,3.6,"Errand/Supplies"
+27-05-2016,27-05-2016,20:26:00,20:30:00,4,Business,Whitebridge,Kildaire Farms,4.5,"Errand/Supplies"
+27-05-2016,27-05-2016,20:47:00,20:53:00,6,Business,Savon Height,Kilarney Woods,1.2,"Not Defined
+"
+27-05-2016,27-05-2016,22:11:00,22:14:00,3,Business,Kilarney Woods,Kildaire Farms,1.7,"Errand/Supplies"
+28-05-2016,28-05-2016,00:15:00,00:21:00,6,Business,Kilarney Woods,Whitebridge,4.7,"Errand/Supplies"
+28-05-2016,28-05-2016,12:52:00,13:06:00,14,Business,Cary,Morrisville,6.1,"Meal/Entertain"
+28-05-2016,28-05-2016,14:35:00,15:04:00,29,Business,Morrisville,Cary,11.3,"Customer Visit"
+31-05-2016,31-05-2016,13:54:00,14:41:00,47,Business,Cary,Raleigh,14.9,"Meeting"
+31-05-2016,31-05-2016,16:02:00,16:39:00,37,Business,Raleigh,Cary,14,"Meeting"
+31-05-2016,31-05-2016,17:50:00,17:59:00,9,Business,Westpark Place,Whitebridge,1.8,"Not Defined
+"
+01-06-2016,01-06-2016,10:19:00,10:47:00,28,Business,Cary,Morrisville,6.7,"Customer Visit"
+01-06-2016,01-06-2016,13:10:00,13:39:00,29,Business,Morrisville,Cary,9.6,"Meeting"
+03-06-2016,03-06-2016,11:29:00,11:49:00,20,Business,Cary,Durham,10.4,"Meeting"
+03-06-2016,03-06-2016,13:08:00,13:38:00,30,Business,Durham,Cary,9.9,"Meeting"
+03-06-2016,03-06-2016,15:31:00,15:54:00,23,Business,Cary,Morrisville,6,"Meal/Entertain"
+03-06-2016,03-06-2016,18:14:00,18:29:00,15,Business,Townes at Everett Crossing,Chessington,3.3,"Errand/Supplies"
+03-06-2016,03-06-2016,18:41:00,18:53:00,12,Business,Morrisville,Cary,3.1,"Errand/Supplies"
+03-06-2016,03-06-2016,19:36:00,19:42:00,6,Business,Huntington Woods,Weston,1.7,"Errand/Supplies"
+03-06-2016,03-06-2016,22:47:00,23:06:00,19,Business,Morrisville,Cary,4,"Between Offices"
+05-06-2016,05-06-2016,14:03:00,14:33:00,30,Business,Whitebridge,Savon Height,7.8,"Customer Visit"
+05-06-2016,05-06-2016,15:06:00,15:22:00,16,Business,Cary,Morrisville,7.8,"Customer Visit"
+05-06-2016,05-06-2016,15:57:00,16:08:00,11,Business,Weston,Weston,3.8,"Meal/Entertain"
+05-06-2016,05-06-2016,18:05:00,18:14:00,9,Business,Morrisville,Cary,2.5,"Meal/Entertain"
+05-06-2016,05-06-2016,21:53:00,22:05:00,12,Business,Cary,Durham,9.9,"Meeting"
+05-06-2016,06-06-2016,23:52:00,00:08:00,16,Business,Durham,Cary,9.9,"Meeting"
+06-06-2016,06-06-2016,15:36:00,15:45:00,9,Business,Whitebridge,Hazelwood,3,"Errand/Supplies"
+06-06-2016,06-06-2016,16:16:00,16:24:00,8,Business,Hazelwood,Whitebridge,2.4,"Errand/Supplies"
+06-06-2016,06-06-2016,20:06:00,20:20:00,14,Business,Cary,Apex,5.7,"Meal/Entertain"
+06-06-2016,06-06-2016,21:08:00,21:37:00,29,Business,Apex,Cary,7.2,"Meal/Entertain"
+06-06-2016,06-06-2016,21:41:00,22:00:00,19,Business,Cary,Durham,10.4,"Meeting"
+06-06-2016,06-06-2016,23:34:00,23:48:00,14,Business,Durham,Cary,9.9,"Meeting"
+07-06-2016,07-06-2016,21:42:00,22:00:00,18,Business,Cary,Durham,10.4,"Meeting"
+07-06-2016,08-06-2016,23:41:00,00:04:00,23,Business,Durham,Cary,9.9,"Meeting"
+08-06-2016,08-06-2016,08:23:00,08:53:00,30,Business,Cary,Morrisville,8.7,"Meal/Entertain"
+08-06-2016,08-06-2016,12:04:00,13:01:00,57,Business,Jamaica,New York,22.3,"Errand/Supplies"
+08-06-2016,08-06-2016,13:12:00,13:29:00,17,Business,Seaport,Gramercy-Flatiron,3.3,"Meal/Entertain"
+08-06-2016,08-06-2016,14:31:00,14:37:00,6,Business,Medical Centre,Tudor City,0.7,"Errand/Supplies"
+08-06-2016,08-06-2016,16:55:00,17:11:00,16,Business,Rose Hill,Soho,2.5,"Meal/Entertain"
+08-06-2016,08-06-2016,17:16:00,17:18:00,2,Business,Soho,Tribeca,0.5,"Errand/Supplies"
+08-06-2016,08-06-2016,17:59:00,18:05:00,6,Business,Tribeca,Financial District,0.9,"Errand/Supplies"
+08-06-2016,08-06-2016,20:11:00,20:25:00,14,Business,Financial District,Kips Bay,4.8,"Errand/Supplies"
+10-06-2016,10-06-2016,15:19:00,16:28:00,69,Business,New York,Jamaica,16.3,"Meeting"
+10-06-2016,10-06-2016,21:47:00,22:04:00,17,Business,Cary,Durham,10.4,"Meeting"
+10-06-2016,11-06-2016,23:53:00,00:01:00,8,Business,Durham,Cary,9.9,"Meeting"
+11-06-2016,11-06-2016,17:08:00,17:16:00,8,Business,Cary,Morrisville,3.7,"Errand/Supplies"
+11-06-2016,11-06-2016,17:34:00,17:39:00,5,Business,Morrisville,Cary,4.6,"Meal/Entertain"
+11-06-2016,11-06-2016,17:50:00,17:56:00,6,Business,Westpark Place,Whitebridge,1.7,"Not Defined
+"
+11-06-2016,11-06-2016,21:45:00,22:04:00,19,Business,Cary,Durham,10.4,"Meeting"
+11-06-2016,12-06-2016,23:39:00,00:05:00,26,Business,Durham,Cary,9.9,"Meeting"
+12-06-2016,12-06-2016,19:53:00,19:56:00,3,Business,Cary,Morrisville,2.5,"Meal/Entertain"
+12-06-2016,12-06-2016,20:05:00,20:16:00,11,Business,Morrisville,Cary,4.3,"Errand/Supplies"
+12-06-2016,12-06-2016,21:58:00,22:19:00,21,Business,Parkway,Whitebridge,2.8,"Errand/Supplies"
+13-06-2016,13-06-2016,05:23:00,05:42:00,19,Business,Cary,Morrisville,8.4,"Meal/Entertain"
+13-06-2016,13-06-2016,14:17:00,14:46:00,29,Business,Oakland,Emeryville,13.2,"Meeting"
+13-06-2016,13-06-2016,18:08:00,18:47:00,39,Business,Emeryville,Berkeley,3.9,"Meal/Entertain"
+13-06-2016,13-06-2016,18:54:00,19:23:00,29,Business,Berkeley,Oakland,5.1,"Meal/Entertain"
+13-06-2016,13-06-2016,20:00:00,20:05:00,5,Business,Oakland,Unknown Location,5.2,"Customer Visit"
+14-06-2016,14-06-2016,12:03:00,12:21:00,18,Business,Emeryville,San Francisco,9.8,"Not Defined
+"
+14-06-2016,14-06-2016,16:09:00,16:39:00,30,Business,San Francisco,Emeryville,11.6,"Meeting"
+14-06-2016,14-06-2016,17:15:00,17:24:00,9,Business,Emeryville,Oakland,5.1,"Meeting"
+14-06-2016,14-06-2016,17:27:00,17:57:00,30,Business,Downtown,Bay Farm Island,9.3,"Errand/Supplies"
+15-06-2016,15-06-2016,01:46:00,02:06:00,20,Business,Kenner,New Orleans,12.4,"Between Offices"
+15-06-2016,15-06-2016,15:26:00,15:34:00,8,Business,CBD,Lower Garden District,1.9,"Between Offices"
+15-06-2016,15-06-2016,16:37:00,17:02:00,25,Business,Lower Garden District,Lakeview,6.4,"Customer Visit"
+15-06-2016,15-06-2016,17:29:00,17:49:00,20,Personal,Lakeview,Storyville,5.5,"Not Defined
+"
+15-06-2016,15-06-2016,19:52:00,19:58:00,6,Business,Storyville,Faubourg Marigny,1.5,"Meal/Entertain"
+16-06-2016,16-06-2016,13:36:00,14:30:00,54,Business,New Orleans,Metairie,14.5,"Not Defined
+"
+16-06-2016,16-06-2016,14:42:00,14:46:00,4,Business,Metairie,Kenner,2.7,"Not Defined
+"
+16-06-2016,16-06-2016,15:17:00,15:41:00,24,Business,Kenner,New Orleans,15,"Not Defined
+"
+16-06-2016,16-06-2016,19:39:00,19:56:00,17,Business,New Orleans,Kenner,12.9,"Not Defined
+"
+16-06-2016,16-06-2016,21:43:00,21:56:00,13,Business,Kenner,New Orleans,13.6,"Not Defined
+"
+17-06-2016,17-06-2016,16:11:00,16:44:00,33,Business,New Orleans,Kenner,12.2,"Not Defined
+"
+18-06-2016,18-06-2016,00:29:00,00:51:00,22,Business,Morrisville,Cary,8.7,"Not Defined
+"
+19-06-2016,19-06-2016,02:39:00,02:50:00,11,Business,Cary,Raleigh,6,"Not Defined
+"
+19-06-2016,19-06-2016,05:51:00,06:00:00,9,Business,Raleigh,Cary,5.9,"Not Defined
+"
+21-06-2016,21-06-2016,15:39:00,16:08:00,29,Business,Cary,Raleigh,19.3,"Not Defined
+"
+21-06-2016,21-06-2016,17:11:00,18:02:00,51,Business,Raleigh,Cary,16.6,"Meal/Entertain"
+24-06-2016,24-06-2016,10:41:00,10:57:00,16,Business,Whitebridge,Waverly Place,7.1,"Meal/Entertain"
+24-06-2016,24-06-2016,11:54:00,12:01:00,7,Business,Waverly Place,Macgregor Downs,2.1,"Meal/Entertain"
+24-06-2016,24-06-2016,12:19:00,12:37:00,18,Business,Cary,Raleigh,8.6,"Errand/Supplies"
+24-06-2016,24-06-2016,12:50:00,13:12:00,22,Business,Raleigh,Morrisville,9,"Errand/Supplies"
+24-06-2016,24-06-2016,13:18:00,13:27:00,9,Business,Morrisville,Cary,3.1,"Errand/Supplies"
+24-06-2016,24-06-2016,14:01:00,14:20:00,19,Business,Cary,Morrisville,8.4,"Temporary Site"
+24-06-2016,24-06-2016,20:44:00,21:02:00,18,Business,Kenner,New Orleans,12.8,"Not Defined
+"
+25-06-2016,25-06-2016,09:03:00,09:12:00,9,Business,CBD,Bywater,4.5,"Not Defined
+"
+25-06-2016,25-06-2016,09:15:00,10:08:00,53,Business,New Orleans,Chalmette,11.8,"Between Offices"
+25-06-2016,25-06-2016,10:18:00,10:25:00,7,Business,Chalmette,Arabi,1.1,"Errand/Supplies"
+25-06-2016,25-06-2016,10:50:00,11:18:00,28,Business,Arabi,Metairie,17,"Meal/Entertain"
+25-06-2016,25-06-2016,11:25:00,11:34:00,9,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,"Meeting"
+25-06-2016,25-06-2016,11:53:00,13:21:00,88,Business,Metairie,New Orleans,15.5,"Meeting"
+25-06-2016,25-06-2016,19:47:00,19:58:00,11,Business,Storyville,Marigny,1.6,"Not Defined
+"
+25-06-2016,25-06-2016,23:19:00,23:26:00,7,Business,Marigny,Storyville,1.5,"Not Defined
+"
+26-06-2016,26-06-2016,17:43:00,18:18:00,35,Business,New Orleans,Kenner,12.6,"Meeting"
+26-06-2016,26-06-2016,18:45:00,19:12:00,27,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,"Not Defined
+"
+26-06-2016,26-06-2016,19:41:00,19:50:00,9,Business,Kenner,Kenner,2.2,"Not Defined
+"
+26-06-2016,26-06-2016,21:14:00,21:42:00,28,Business,Kenner,New Orleans,13,"Not Defined
+"
+27-06-2016,27-06-2016,07:37:00,08:48:00,71,Business,New Orleans,Covington,46.9,"Not Defined
+"
+27-06-2016,27-06-2016,08:51:00,09:00:00,9,Business,Covington,Covington,2.5,"Not Defined
+"
+27-06-2016,27-06-2016,09:05:00,09:33:00,28,Business,Covington,Covington,8.6,"Not Defined
+"
+27-06-2016,27-06-2016,09:43:00,10:08:00,25,Business,Covington,Covington,5.2,"Not Defined
+"
+27-06-2016,27-06-2016,10:22:00,10:39:00,17,Business,Covington,Covington,7.6,"Not Defined
+"
+27-06-2016,27-06-2016,10:51:00,10:58:00,7,Business,Covington,Covington,1.8,"Not Defined
+"
+27-06-2016,27-06-2016,11:06:00,11:24:00,18,Business,Covington,Mandeville,4.7,"Not Defined
+"
+27-06-2016,27-06-2016,11:30:00,11:42:00,12,Business,Mandeville,Mandeville,2.8,"Not Defined
+"
+27-06-2016,27-06-2016,12:22:00,13:02:00,40,Business,Mandeville,Metairie,30,"Not Defined
+"
+27-06-2016,27-06-2016,13:56:00,14:05:00,9,Business,Metairie,Kenner,4.4,"Not Defined
+"
+27-06-2016,27-06-2016,21:09:00,21:19:00,10,Business,Jamestown Court,Jamestown Court,1,"Not Defined
+"
+28-06-2016,28-06-2016,00:48:00,01:05:00,17,Business,Morrisville,Cary,8.2,"Customer Visit"
+28-06-2016,28-06-2016,20:13:00,20:33:00,20,Business,Cary,Durham,10.4,"Meeting"
+28-06-2016,28-06-2016,23:34:00,23:59:00,25,Business,Durham,Cary,9.9,"Meeting"
+28-06-2016,28-06-2016,23:34:00,23:59:00,25,Business,Durham,Cary,9.9,"Meeting"
+29-06-2016,29-06-2016,08:56:00,09:24:00,28,Business,Cary,Morrisville,7.3,"Not Defined
+"
+29-06-2016,29-06-2016,10:22:00,10:38:00,16,Business,Morrisville,Cary,7.4,"Not Defined
+"
+29-06-2016,29-06-2016,11:49:00,11:51:00,2,Business,Whitebridge,Westpark Place,1.6,"Not Defined
+"
+29-06-2016,29-06-2016,12:11:00,12:16:00,5,Business,Westpark Place,Whitebridge,1.8,"Not Defined
+"
+29-06-2016,29-06-2016,20:11:00,20:29:00,18,Business,Cary,Durham,10.4,"Meeting"
+29-06-2016,30-06-2016,23:38:00,00:00:00,22,Business,Durham,Cary,9.9,"Meeting"
+30-06-2016,30-06-2016,20:09:00,20:26:00,17,Business,Cary,Durham,9.9,"Meeting"
+01-07-2016,01-07-2016,00:00:00,00:25:00,25,Business,Durham,Cary,9.9,"Meeting"
+01-07-2016,01-07-2016,09:34:00,09:57:00,23,Business,Cary,Raleigh,13.3,"Meeting"
+01-07-2016,01-07-2016,12:36:00,13:00:00,24,Business,Raleigh,Cary,11.3,"Meeting"
+01-07-2016,01-07-2016,20:06:00,20:24:00,18,Business,Cary,Durham,10.5,"Meeting"
+01-07-2016,02-07-2016,23:48:00,00:09:00,21,Business,Durham,Cary,9.9,"Meeting"
+02-07-2016,02-07-2016,20:18:00,20:36:00,18,Business,Cary,Durham,10.1,"Meeting"
+02-07-2016,03-07-2016,23:48:00,00:12:00,24,Business,Durham,Cary,9.9,"Meeting"
+03-07-2016,03-07-2016,00:28:00,00:38:00,10,Business,Cary,Morrisville,3.1,"Errand/Supplies"
+03-07-2016,03-07-2016,03:02:00,03:08:00,6,Business,Morrisville,Cary,3.1,"Errand/Supplies"
+03-07-2016,03-07-2016,20:00:00,20:18:00,18,Business,Cary,Durham,9.9,"Meeting"
+04-07-2016,04-07-2016,00:32:00,00:47:00,15,Business,Durham,Cary,9.9,"Meeting"
+04-07-2016,04-07-2016,17:31:00,17:49:00,18,Business,Whitebridge,Summerwinds,8.8,"Meeting"
+04-07-2016,04-07-2016,18:23:00,18:49:00,26,Business,Summerwinds,Whitebridge,8.7,"Temporary Site"
+04-07-2016,04-07-2016,20:00:00,20:17:00,17,Business,Cary,Durham,11.8,"Meeting"
+05-07-2016,05-07-2016,00:00:00,00:05:00,5,Business,Parkwood,Parkwood,1.2,"Errand/Supplies"
+05-07-2016,05-07-2016,00:08:00,00:28:00,20,Business,Durham,Cary,9.9,"Meeting"
+05-07-2016,05-07-2016,16:48:00,16:52:00,4,Business,Whitebridge,Whitebridge,0.6,"Errand/Supplies"
+05-07-2016,05-07-2016,20:06:00,20:26:00,20,Business,Cary,Durham,9.9,"Not Defined
+"
+05-07-2016,05-07-2016,22:41:00,23:02:00,21,Business,Durham,Morrisville,8.6,"Not Defined
+"
+06-07-2016,06-07-2016,00:33:00,00:53:00,20,Business,Morrisville,Cary,6.3,"Meal/Entertain"
+06-07-2016,06-07-2016,09:06:00,09:25:00,19,Business,Cary,Durham,9.9,"Meeting"
+06-07-2016,06-07-2016,12:48:00,13:08:00,20,Business,Durham,Cary,9.9,"Not Defined
+"
+06-07-2016,06-07-2016,20:04:00,20:14:00,10,Business,Cary,Morrisville,3.3,"Meal/Entertain"
+06-07-2016,06-07-2016,23:46:00,23:59:00,13,Business,Morrisville,Cary,3.1,"Customer Visit"
+07-07-2016,07-07-2016,08:22:00,08:50:00,28,Business,Cary,Morrisville,7.9,"Temporary Site"
+07-07-2016,07-07-2016,10:27:00,10:33:00,6,Business,Morrisville,Cary,8.9,"Not Defined
+"
+07-07-2016,07-07-2016,12:59:00,13:35:00,36,Business,Kenner,New Orleans,12.8,"Not Defined
+"
+08-07-2016,08-07-2016,09:50:00,10:13:00,23,Business,CBD,Pontchartrain Beach,7.7,"Not Defined
+"
+08-07-2016,08-07-2016,10:51:00,11:12:00,21,Business,Pontchartrain Beach,CBD,7,"Not Defined
+"
+08-07-2016,08-07-2016,13:48:00,14:11:00,23,Business,New Orleans,Metairie,12.5,"Not Defined
+"
+08-07-2016,08-07-2016,17:11:00,17:30:00,19,Business,Kenner,New Orleans,13.2,"Not Defined
+"
+09-07-2016,09-07-2016,09:03:00,09:46:00,43,Business,New Orleans,Kenner,13,"Not Defined
+"
+09-07-2016,09-07-2016,09:52:00,10:06:00,14,Business,Kenner,Metairie,4.9,"Not Defined
+"
+09-07-2016,09-07-2016,10:15:00,10:33:00,18,Business,Metairie,New Orleans,8.5,"Not Defined
+"
+10-07-2016,10-07-2016,14:10:00,14:17:00,7,Business,CBD,St Thomas,1.3,"Not Defined
+"
+10-07-2016,10-07-2016,16:04:00,16:15:00,11,Business,St Thomas,CBD,1.8,"Not Defined
+"
+10-07-2016,10-07-2016,18:05:00,18:21:00,16,Business,New Orleans,Kenner,13.6,"Not Defined
+"
+10-07-2016,10-07-2016,19:51:00,20:08:00,17,Business,Kenner,New Orleans,13.4,"Not Defined
+"
+12-07-2016,12-07-2016,16:10:00,16:45:00,35,Business,New Orleans,Kenner,12.3,"Not Defined
+"
+12-07-2016,12-07-2016,19:21:00,19:26:00,5,Personal,Kenner,Kenner,1.4,"Not Defined
+"
+12-07-2016,13-07-2016,23:47:00,00:11:00,24,Personal,Morrisville,Cary,8.7,"Not Defined
+"
+13-07-2016,13-07-2016,12:39:00,13:20:00,41,Personal,Cary,Morrisville,23.5,"Not Defined
+"
+13-07-2016,13-07-2016,13:25:00,13:39:00,14,Personal,Morrisville,Morrisville,2.2,"Not Defined
+"
+13-07-2016,13-07-2016,13:42:00,13:54:00,12,Personal,Morrisville,Cary,4.4,"Not Defined
+"
+14-07-2016,14-07-2016,15:51:00,15:59:00,8,Personal,Cary,Morrisville,3.3,"Not Defined
+"
+14-07-2016,14-07-2016,16:03:00,16:34:00,31,Business,Morrisville,Morrisville,11.8,"Errand/Supplies"
+14-07-2016,14-07-2016,16:39:00,20:05:00,206,Business,Morrisville,Banner Elk,195.3,"Not Defined
+"
+15-07-2016,15-07-2016,11:32:00,11:53:00,21,Personal,Banner Elk,Banner Elk,8.3,"Not Defined
+"
+15-07-2016,15-07-2016,12:09:00,12:19:00,10,Personal,Banner Elk,Banner Elk,3.2,"Not Defined
+"
+15-07-2016,15-07-2016,12:35:00,13:15:00,40,Personal,Banner Elk,Elk Park,22.4,"Not Defined
+"
+15-07-2016,15-07-2016,15:03:00,15:33:00,30,Personal,Elk Park,Banner Elk,12.2,"Not Defined
+"
+15-07-2016,15-07-2016,15:40:00,15:52:00,12,Personal,Banner Elk,Banner Elk,4.5,"Not Defined
+"
+16-07-2016,16-07-2016,13:14:00,14:10:00,56,Personal,Banner Elk,Newland,28.1,"Not Defined
+"
+16-07-2016,16-07-2016,14:14:00,14:30:00,16,Personal,Newland,Newland,3.8,"Not Defined
+"
+16-07-2016,16-07-2016,15:29:00,16:57:00,88,Personal,Newland,Boone,41.9,"Not Defined
+"
+16-07-2016,16-07-2016,19:42:00,20:35:00,53,Personal,Boone,Banner Elk,23.8,"Not Defined
+"
+16-07-2016,16-07-2016,21:45:00,22:18:00,33,Personal,Banner Elk,Banner Elk,13,"Not Defined
+"
+16-07-2016,16-07-2016,22:50:00,23:03:00,13,Business,Banner Elk,Banner Elk,4.4,"Errand/Supplies"
+17-07-2016,17-07-2016,11:23:00,11:50:00,27,Personal,Banner Elk,Boone,15.1,"Charity ($)"
+17-07-2016,17-07-2016,12:20:00,15:25:00,185,Personal,Boone,Cary,180.2,"Commute"
+18-07-2016,18-07-2016,10:37:00,10:49:00,12,Personal,Cary,Morrisville,4.1,"Moving"
+18-07-2016,18-07-2016,10:54:00,11:15:00,21,Personal,Morrisville,Cary,6.1,"Moving"
+18-07-2016,18-07-2016,11:25:00,11:36:00,11,Personal,Northwoods,Preston,3.3,"Moving"
+18-07-2016,18-07-2016,11:40:00,11:56:00,16,Personal,Preston,Whitebridge,4.7,"Moving"
+18-07-2016,18-07-2016,17:12:00,17:33:00,21,Business,Cary,Apex,7.2,"Meeting"
+18-07-2016,18-07-2016,18:32:00,18:47:00,15,Business,Apex,Cary,5.5,"Meal/Entertain"
+18-07-2016,18-07-2016,19:07:00,19:14:00,7,Business,Cary,Morrisville,3.3,"Meal/Entertain"
+18-07-2016,18-07-2016,20:28:00,20:32:00,4,Business,Hazelwood,Weston,0.9,"Errand/Supplies"
+18-07-2016,18-07-2016,21:11:00,21:19:00,8,Business,Morrisville,Cary,3.8,"Meal/Entertain"
+19-07-2016,19-07-2016,10:35:00,10:51:00,16,Business,Whitebridge,Stonewater,6.4,"Customer Visit"
+19-07-2016,19-07-2016,10:56:00,11:11:00,15,Business,Stonewater,Lexington Park at Amberly,3,"Meeting"
+19-07-2016,19-07-2016,11:30:00,12:00:00,30,Business,Lexington Park at Amberly,Whitebridge,8.7,"Meal/Entertain"
+19-07-2016,19-07-2016,17:14:00,17:24:00,10,Business,Whitebridge,Chessington,3.9,"Errand/Supplies"
+19-07-2016,19-07-2016,17:50:00,18:08:00,18,Personal,Chessington,Whitebridge,4.8,"Not Defined
+"
+20-07-2016,20-07-2016,17:12:00,17:24:00,12,Personal,Whitebridge,Edgehill Farms,2.8,"Not Defined
+"
+20-07-2016,20-07-2016,17:50:00,17:57:00,7,Personal,Edgehill Farms,Preston,1.4,"Not Defined
+"
+20-07-2016,20-07-2016,18:16:00,18:20:00,4,Personal,Preston,Whitebridge,1.4,"Not Defined
+"
+21-07-2016,21-07-2016,17:17:00,17:23:00,6,Business,Whitebridge,Edgehill Farms,2.7,"Not Defined
+"
+21-07-2016,21-07-2016,17:42:00,17:51:00,9,Business,Edgehill Farms,Burtrose,2.3,"Not Defined
+"
+21-07-2016,21-07-2016,18:27:00,18:42:00,15,Business,Cary,Morrisville,3.7,"Not Defined
+"
+21-07-2016,21-07-2016,19:30:00,19:39:00,9,Business,Morrisville,Cary,2.9,"Not Defined
+"
+22-07-2016,22-07-2016,10:42:00,10:53:00,11,Business,Cary,Morrisville,3.8,"Not Defined
+"
+22-07-2016,22-07-2016,11:11:00,11:25:00,14,Business,Morrisville,Cary,5.1,"Not Defined
+"
+22-07-2016,22-07-2016,11:37:00,12:00:00,23,Business,Hazelwood,Lexington Park at Amberly,9.1,"Not Defined
+"
+22-07-2016,22-07-2016,12:14:00,12:31:00,17,Business,Cary,Durham,8,"Not Defined
+"
+22-07-2016,22-07-2016,13:21:00,13:42:00,21,Business,Durham,Cary,9.9,"Meeting"
+22-07-2016,22-07-2016,14:27:00,14:43:00,16,Business,Cary,Morrisville,6.1,"Meal/Entertain"
+22-07-2016,22-07-2016,15:49:00,16:22:00,33,Business,Morrisville,Cary,12.2,"Not Defined
+"
+22-07-2016,22-07-2016,18:33:00,18:51:00,18,Business,Wayne Ridge,Whitebridge,8,"Not Defined
+"
+23-07-2016,23-07-2016,14:27:00,14:44:00,17,Business,Cary,Morrisville,4,"Not Defined
+"
+23-07-2016,23-07-2016,14:48:00,15:12:00,24,Business,Morrisville,Cary,9.5,"Not Defined
+"
+23-07-2016,23-07-2016,15:15:00,15:27:00,12,Business,Cary,Morrisville,3,"Not Defined
+"
+23-07-2016,23-07-2016,15:50:00,16:10:00,20,Business,Morrisville,Cary,6.3,"Not Defined
+"
+23-07-2016,23-07-2016,20:17:00,20:33:00,16,Business,Cary,Durham,10.4,"Meeting"
+23-07-2016,23-07-2016,23:18:00,23:43:00,25,Business,Durham,Cary,9.9,"Meeting"
+25-07-2016,25-07-2016,10:35:00,10:41:00,6,Business,Whitebridge,Parkway,1.5,"Not Defined
+"
+25-07-2016,25-07-2016,10:47:00,10:58:00,11,Business,Cary,Morrisville,4.9,"Not Defined
+"
+25-07-2016,25-07-2016,11:04:00,11:33:00,29,Business,Morrisville,Cary,7.9,"Not Defined
+"
+25-07-2016,25-07-2016,11:37:00,11:44:00,7,Business,Parkway,Whitebridge,1.7,"Not Defined
+"
+26-07-2016,26-07-2016,15:43:00,15:49:00,6,Business,Whitebridge,Westpark Place,2.2,"Not Defined
+"
+26-07-2016,26-07-2016,17:14:00,17:24:00,10,Business,Westpark Place,Whitebridge,2.1,"Not Defined
+"
+26-07-2016,26-07-2016,20:52:00,21:00:00,8,Business,Cary,Morrisville,2.5,"Meal/Entertain"
+26-07-2016,26-07-2016,22:31:00,22:39:00,8,Business,Morrisville,Cary,2.5,"Meal/Entertain"
+27-07-2016,27-07-2016,19:08:00,19:20:00,12,Business,Cary,Morrisville,2.8,"Not Defined
+"
+27-07-2016,27-07-2016,21:34:00,21:57:00,23,Business,Morrisville,Raleigh,14.7,"Not Defined
+"
+27-07-2016,27-07-2016,22:00:00,22:26:00,26,Business,Raleigh,Morrisville,14.6,"Not Defined
+"
+28-07-2016,28-07-2016,00:04:00,00:09:00,5,Business,Morrisville,Cary,2.3,"Not Defined
+"
+29-07-2016,29-07-2016,15:45:00,15:47:00,2,Business,Whitebridge,Westpark Place,2.2,"Not Defined
+"
+29-07-2016,29-07-2016,17:27:00,17:45:00,18,Business,Westpark Place,Whitebridge,2.2,"Meal/Entertain"
+30-07-2016,30-07-2016,17:02:00,17:27:00,25,Business,Cary,Durham,14,"Not Defined
+"
+30-07-2016,30-07-2016,21:16:00,21:41:00,25,Business,Durham,Cary,13.3,"Not Defined
+"
+31-07-2016,31-07-2016,17:30:00,17:37:00,7,Business,Westpark Place,Whitebridge,1.8,"Not Defined
+"
+01-08-2016,01-08-2016,12:47:00,13:04:00,17,Business,Whitebridge,Arlington Park at Amberly,6.2,"Not Defined
+"
+01-08-2016,01-08-2016,13:08:00,13:19:00,11,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,"Not Defined
+"
+01-08-2016,01-08-2016,13:28:00,13:46:00,18,Business,Lexington Park at Amberly,Westpark Place,1.9,"Not Defined
+"
+01-08-2016,01-08-2016,13:52:00,14:14:00,22,Business,Cary,Apex,6.9,"Not Defined
+"
+01-08-2016,01-08-2016,15:40:00,15:47:00,7,Business,Apex,Cary,4.6,"Not Defined
+"
+01-08-2016,01-08-2016,16:18:00,16:25:00,7,Business,Whitebridge,Edgehill Farms,2.8,"Not Defined
+"
+01-08-2016,01-08-2016,16:29:00,16:59:00,30,Business,Cary,Morrisville,9.1,"Not Defined
+"
+01-08-2016,01-08-2016,17:23:00,17:55:00,32,Business,Morrisville,Cary,8.1,"Not Defined
+"
+02-08-2016,02-08-2016,08:11:00,08:32:00,21,Business,Cary,Morrisville,8.4,"Meeting"
+02-08-2016,02-08-2016,11:51:00,12:15:00,24,Business,Arlington,Washington,4.9,"Not Defined
+"
+02-08-2016,02-08-2016,19:15:00,19:23:00,8,Business,Kalorama Triangle,K Street,1,"Not Defined
+"
+02-08-2016,02-08-2016,21:23:00,21:29:00,6,Business,K Street,Kalorama Triangle,1,"Not Defined
+"
+03-08-2016,03-08-2016,12:46:00,13:00:00,14,Business,West End,Northwest Rectangle,2,"Not Defined
+"
+03-08-2016,03-08-2016,14:59:00,15:03:00,4,Business,K Street,Kalorama Triangle,1.1,"Not Defined
+"
+03-08-2016,03-08-2016,16:00:00,16:04:00,4,Business,Kalorama Triangle,Downtown,1.5,"Not Defined
+"
+05-08-2016,05-08-2016,17:23:00,17:30:00,7,Business,Connecticut Avenue,Kalorama Triangle,1.3,"Not Defined
+"
+05-08-2016,05-08-2016,18:17:00,18:21:00,4,Business,Kalorama Triangle,Columbia Heights,1.8,"Not Defined
+"
+05-08-2016,05-08-2016,19:17:00,19:27:00,10,Business,Columbia Heights,Kalorama Triangle,1.5,"Not Defined
+"
+06-08-2016,06-08-2016,06:40:00,06:58:00,18,Business,Washington,Arlington,6.6,"Not Defined
+"
+06-08-2016,06-08-2016,09:31:00,09:53:00,22,Business,Morrisville,Cary,8,"Not Defined
+"
+07-08-2016,07-08-2016,17:14:00,17:23:00,9,Business,Whitebridge,Edgehill Farms,2.7,"Not Defined
+"
+07-08-2016,07-08-2016,17:28:00,17:43:00,15,Business,Edgehill Farms,Whitebridge,2.7,"Customer Visit"
+07-08-2016,07-08-2016,18:17:00,18:23:00,6,Business,Cary,Morrisville,2.5,"Not Defined
+"
+07-08-2016,07-08-2016,20:15:00,20:23:00,8,Business,Morrisville,Cary,2.5,"Meal/Entertain"
+08-08-2016,08-08-2016,16:17:00,16:31:00,14,Business,Whitebridge,Farmington Woods,5.2,"Not Defined
+"
+08-08-2016,08-08-2016,16:37:00,16:50:00,13,Business,Farmington Woods,Edgehill Farms,4,"Not Defined
+"
+08-08-2016,08-08-2016,17:02:00,17:13:00,11,Business,Edgehill Farms,Whitebridge,2.7,"Customer Visit"
+08-08-2016,08-08-2016,21:50:00,22:15:00,25,Business,Cary,Morrisville,4.8,"Not Defined
+"
+08-08-2016,08-08-2016,23:28:00,23:37:00,9,Business,Morrisville,Cary,3.2,"Customer Visit"
+09-08-2016,09-08-2016,14:20:00,14:38:00,18,Business,Whitebridge,Waverly Place,6.9,"Not Defined
+"
+09-08-2016,09-08-2016,15:15:00,15:36:00,21,Business,Cary,Raleigh,14.9,"Not Defined
+"
+09-08-2016,09-08-2016,16:04:00,16:37:00,33,Business,Raleigh,Cary,17.4,"Not Defined
+"
+10-08-2016,10-08-2016,16:56:00,17:24:00,28,Business,Cary,Durham,12.9,"Not Defined
+"
+10-08-2016,10-08-2016,17:53:00,18:28:00,35,Business,Durham,Apex,15.3,"Not Defined
+"
+10-08-2016,10-08-2016,18:49:00,18:50:00,1,Business,Apex,Apex,1,"Not Defined
+"
+10-08-2016,10-08-2016,19:47:00,20:02:00,15,Business,Apex,Cary,6,"Not Defined
+"
+11-08-2016,11-08-2016,12:53:00,13:00:00,7,Business,Whitebridge,Heritage Pines,2.2,"Not Defined
+"
+11-08-2016,11-08-2016,13:14:00,13:28:00,14,Business,Heritage Pines,Edgehill Farms,4.4,"Not Defined
+"
+11-08-2016,11-08-2016,13:32:00,13:42:00,10,Business,Edgehill Farms,Whitebridge,2.8,"Not Defined
+"
+11-08-2016,11-08-2016,18:37:00,19:29:00,52,Business,Cary,Wake Forest,31.7,"Not Defined
+"
+11-08-2016,11-08-2016,20:59:00,21:44:00,45,Business,Wake Forest,Cary,31.9,"Not Defined
+"
+12-08-2016,12-08-2016,18:49:00,18:52:00,3,Business,Whitebridge,Westpark Place,1.9,"Not Defined
+"
+12-08-2016,12-08-2016,18:56:00,19:05:00,9,Business,Westpark Place,Whitebridge,1.8,"Not Defined
+"
+13-08-2016,13-08-2016,15:35:00,15:58:00,23,Business,Cary,Morrisville,8.4,"Meeting"
+15-08-2016,15-08-2016,09:05:00,09:52:00,47,Business,Rawalpindi,Unknown Location,15.6,"Not Defined
+"
+16-08-2016,16-08-2016,10:06:00,10:27:00,21,Business,Unknown Location,Islamabad,5.7,"Not Defined
+"
+16-08-2016,16-08-2016,10:31:00,10:38:00,7,Business,Islamabad,Islamabad,1.2,"Not Defined
+"
+16-08-2016,16-08-2016,11:47:00,12:03:00,16,Business,Islamabad,Unknown Location,5.7,"Temporary Site"
+17-08-2016,17-08-2016,14:45:00,14:50:00,5,Business,Unknown Location,Rawalpindi,1.4,"Not Defined
+"
+17-08-2016,17-08-2016,15:32:00,15:47:00,15,Business,Rawalpindi,Islamabad,6.4,"Not Defined
+"
+17-08-2016,17-08-2016,16:29:00,16:50:00,21,Business,Islamabad,Unknown Location,7.3,"Not Defined
+"
+19-08-2016,19-08-2016,08:24:00,08:45:00,21,Business,Unknown Location,Noorpur Shahan,7.6,"Not Defined
+"
+19-08-2016,19-08-2016,08:54:00,09:07:00,13,Business,Noorpur Shahan,Islamabad,3.3,"Not Defined
+"
+19-08-2016,19-08-2016,09:27:00,09:47:00,20,Business,Islamabad,Rawalpindi,6.5,"Not Defined
+"
+19-08-2016,19-08-2016,10:57:00,11:06:00,9,Business,Rawalpindi,Unknown Location,2,"Not Defined
+"
+19-08-2016,19-08-2016,12:07:00,12:24:00,17,Business,Unknown Location,Islamabad,5.7,"Not Defined
+"
+19-08-2016,19-08-2016,15:51:00,16:06:00,15,Business,Islamabad,Islamabad,3.2,"Not Defined
+"
+19-08-2016,19-08-2016,17:12:00,17:52:00,40,Business,Islamabad,Unknown Location,12.5,"Not Defined
+"
+21-08-2016,21-08-2016,16:30:00,17:02:00,32,Business,Unknown Location,Islamabad,12.2,"Not Defined
+"
+21-08-2016,21-08-2016,18:10:00,18:17:00,7,Business,Islamabad,Islamabad,1.4,"Not Defined
+"
+21-08-2016,21-08-2016,18:48:00,19:24:00,36,Business,Islamabad,Unknown Location,20.2,"Not Defined
+"
+22-08-2016,22-08-2016,10:00:00,10:44:00,44,Business,Unknown Location,Islamabad,9.8,"Not Defined
+"
+22-08-2016,22-08-2016,11:07:00,11:23:00,16,Business,Islamabad,Unknown Location,6.3,"Not Defined
+"
+22-08-2016,22-08-2016,12:36:00,12:49:00,13,Business,Unknown Location,Islamabad,4.9,"Not Defined
+"
+22-08-2016,22-08-2016,13:02:00,13:11:00,9,Business,Islamabad,Islamabad,1.5,"Not Defined
+"
+22-08-2016,22-08-2016,14:07:00,14:31:00,24,Business,Islamabad,Unknown Location,10.9,"Not Defined
+"
+22-08-2016,22-08-2016,19:58:00,20:50:00,52,Business,Unknown Location,Rawalpindi,7.9,"Not Defined
+"
+22-08-2016,22-08-2016,20:53:00,21:31:00,38,Business,Rawalpindi,Rawalpindi,4.1,"Not Defined
+"
+22-08-2016,22-08-2016,22:31:00,23:00:00,29,Business,Rawalpindi,Unknown Location,18.7,"Not Defined
+"
+23-08-2016,23-08-2016,08:10:00,08:25:00,15,Business,Unknown Location,Noorpur Shahan,8.7,"Not Defined
+"
+23-08-2016,23-08-2016,09:35:00,10:09:00,34,Business,Noorpur Shahan,Unknown Location,7.5,"Not Defined
+"
+23-08-2016,23-08-2016,12:59:00,13:15:00,16,Business,Unknown Location,Noorpur Shahan,7.7,"Not Defined
+"
+23-08-2016,23-08-2016,13:19:00,13:30:00,11,Business,Noorpur Shahan,Islamabad,4.4,"Not Defined
+"
+23-08-2016,23-08-2016,13:49:00,14:04:00,15,Business,Islamabad,Unknown Location,5,"Not Defined
+"
+25-08-2016,25-08-2016,19:25:00,19:57:00,32,Business,Unknown Location,Lahore,9.2,"Not Defined
+"
+25-08-2016,25-08-2016,22:58:00,23:16:00,18,Business,Lahore,Unknown Location,7.3,"Not Defined
+"
+26-08-2016,26-08-2016,12:10:00,12:20:00,10,Business,Unknown Location,Lahore,3.9,"Not Defined
+"
+26-08-2016,26-08-2016,14:10:00,14:33:00,23,Business,Lahore,Lahore,7.4,"Not Defined
+"
+26-08-2016,26-08-2016,15:23:00,15:35:00,12,Business,Lahore,Lahore,1.5,"Not Defined
+"
+26-08-2016,26-08-2016,15:59:00,16:24:00,25,Business,Lahore,Unknown Location,7.9,"Not Defined
+"
+26-08-2016,26-08-2016,16:55:00,17:12:00,17,Business,Unknown Location,Lahore,2.9,"Not Defined
+"
+26-08-2016,26-08-2016,18:42:00,18:56:00,14,Business,Lahore,Lahore,3.4,"Not Defined
+"
+26-08-2016,26-08-2016,19:31:00,19:54:00,23,Business,Lahore,Lahore,3.8,"Not Defined
+"
+26-08-2016,26-08-2016,20:06:00,20:16:00,10,Business,Lahore,Unknown Location,5.9,"Not Defined
+"
+27-08-2016,27-08-2016,09:34:00,10:11:00,37,Business,Unknown Location,Lahore,9.6,"Not Defined
+"
+27-08-2016,27-08-2016,11:47:00,12:06:00,19,Business,Lahore,Lahore,7,"Not Defined
+"
+27-08-2016,27-08-2016,12:12:00,12:17:00,5,Business,Lahore,Lahore,0.9,"Not Defined
+"
+27-08-2016,27-08-2016,14:01:00,15:44:00,103,Business,Lahore,Unknown Location,86.6,"Not Defined
+"
+28-08-2016,28-08-2016,09:57:00,10:18:00,21,Business,Unknown Location,Noorpur Shahan,10.1,"Not Defined
+"
+28-08-2016,28-08-2016,16:39:00,16:55:00,16,Business,Noorpur Shahan,Islamabad,6.2,"Not Defined
+"
+28-08-2016,28-08-2016,17:37:00,17:55:00,18,Business,Islamabad,Islamabad,5.3,"Not Defined
+"
+28-08-2016,28-08-2016,21:15:00,21:59:00,44,Business,Islamabad,Unknown Location,12.1,"Not Defined
+"
+29-08-2016,29-08-2016,12:02:00,12:31:00,29,Business,Unknown Location,Islamabad,10.8,"Not Defined
+"
+29-08-2016,29-08-2016,13:38:00,13:48:00,10,Business,Islamabad,Islamabad,4.3,"Not Defined
+"
+29-08-2016,29-08-2016,14:31:00,14:41:00,10,Business,Islamabad,Islamabad,2.5,"Not Defined
+"
+29-08-2016,29-08-2016,14:49:00,15:04:00,15,Business,Islamabad,Unknown Location,5.7,"Temporary Site"
+29-08-2016,29-08-2016,15:49:00,15:59:00,10,Business,Unknown Location,Islamabad,2.8,"Not Defined
+"
+29-08-2016,29-08-2016,16:06:00,16:21:00,15,Business,Islamabad,Unknown Location,4,"Not Defined
+"
+29-08-2016,29-08-2016,17:24:00,17:41:00,17,Business,Unknown Location,Islamabad,5.5,"Not Defined
+"
+29-08-2016,29-08-2016,18:27:00,18:36:00,9,Business,Islamabad,Islamabad,2.6,"Not Defined
+"
+30-08-2016,30-08-2016,12:46:00,13:09:00,23,Business,Unknown Location,Islamabad,8.8,"Not Defined
+"
+30-08-2016,30-08-2016,13:25:00,13:46:00,21,Business,Islamabad,Islamabad,4.4,"Not Defined
+"
+30-08-2016,30-08-2016,14:00:00,14:20:00,20,Business,Islamabad,Unknown Location,5.3,"Not Defined
+"
+01-09-2016,01-09-2016,11:51:00,12:24:00,33,Business,Unknown Location,Islamabad,13,"Not Defined
+"
+01-09-2016,01-09-2016,17:21:00,17:36:00,15,Business,Islamabad,Unknown Location,10.6,"Not Defined
+"
+02-09-2016,02-09-2016,11:37:00,12:24:00,47,Business,Unknown Location,Islamabad,9.2,"Not Defined
+"
+05-09-2016,05-09-2016,10:25:00,10:44:00,19,Business,Unknown Location,Rawalpindi,17.2,"Not Defined
+"
+19-09-2016,19-09-2016,06:18:00,06:49:00,31,Business,Rawalpindi,Unknown Location,18.2,"Not Defined
+"
+19-09-2016,19-09-2016,14:40:00,14:56:00,16,Business,Unknown Location,Islamabad,10.5,"Not Defined
+"
+19-09-2016,19-09-2016,16:23:00,16:31:00,8,Business,Islamabad,Unknown Location,5.7,"Not Defined
+"
+19-09-2016,19-09-2016,19:10:00,19:49:00,39,Business,Unknown Location,Islamabad,18.3,"Not Defined
+"
+20-09-2016,20-09-2016,11:29:00,11:48:00,19,Business,Islamabad,Unknown Location,16.5,"Not Defined
+"
+20-09-2016,20-09-2016,20:47:00,22:47:00,120,Business,Unknown Location,Rawalpindi,9.6,"Not Defined
+"
+23-09-2016,23-09-2016,13:15:00,13:40:00,25,Business,Karachi,Karachi,2.9,"Not Defined
+"
+24-09-2016,24-09-2016,14:34:00,15:15:00,41,Business,Karachi,Unknown Location,8.2,"Not Defined
+"
+27-09-2016,27-09-2016,13:21:00,14:43:00,82,Business,Lahore,Lahore,9.8,"Not Defined
+"
+27-09-2016,27-09-2016,19:14:00,20:34:00,80,Business,Lahore,Unknown Location,7.3,"Not Defined
+"
+28-09-2016,28-09-2016,17:21:00,19:36:00,135,Business,Islamabad,Unknown Location,20.5,"Not Defined
+"
+29-09-2016,29-09-2016,16:13:00,18:47:00,154,Business,Unknown Location,Islamabad,12.6,"Not Defined
+"
+30-09-2016,30-09-2016,17:39:00,20:20:00,161,Business,Islamabad,Islamabad,37.7,"Not Defined
+"
+30-09-2016,30-09-2016,20:59:00,22:34:00,95,Business,Islamabad,Unknown Location,16.7,"Not Defined
+"
+03-10-2016,03-10-2016,17:09:00,17:12:00,3,Business,Unknown Location,Islamabad,10.5,"Not Defined
+"
+03-10-2016,03-10-2016,18:17:00,18:34:00,17,Business,Islamabad,Islamabad,2.8,"Not Defined
+"
+03-10-2016,03-10-2016,18:51:00,19:01:00,10,Business,Islamabad,Islamabad,1.6,"Not Defined
+"
+03-10-2016,03-10-2016,22:04:00,22:33:00,29,Business,Islamabad,Unknown Location,12.7,"Not Defined
+"
+06-10-2016,06-10-2016,08:49:00,11:36:00,167,Business,Unknown Location,Rawalpindi,17.9,"Not Defined
+"
+06-10-2016,06-10-2016,17:23:00,17:40:00,17,Business,Rawalpindi,Unknown Location,112.6,"Not Defined
+"
+07-10-2016,07-10-2016,10:56:00,10:59:00,3,Business,Unknown Location,Lahore,33.2,"Not Defined
+"
+07-10-2016,07-10-2016,11:27:00,11:50:00,23,Business,Lahore,Lahore,2.6,"Not Defined
+"
+07-10-2016,07-10-2016,13:52:00,14:08:00,16,Business,Lahore,Unknown Location,5.8,"Not Defined
+"
+07-10-2016,07-10-2016,14:29:00,15:11:00,42,Business,Unknown Location,Lahore,8.3,"Not Defined
+"
+07-10-2016,07-10-2016,15:47:00,16:02:00,15,Business,Lahore,Lahore,2.4,"Not Defined
+"
+07-10-2016,07-10-2016,18:08:00,18:27:00,19,Business,Lahore,Lahore,3.1,"Not Defined
+"
+07-10-2016,07-10-2016,18:33:00,19:01:00,28,Business,Lahore,Lahore,6.1,"Not Defined
+"
+08-10-2016,08-10-2016,15:03:00,15:03:00,0,Business,Karachi,Karachi,3.6,"Not Defined
+"
+08-10-2016,08-10-2016,18:15:00,18:18:00,3,Business,Karachi,Unknown Location,8,"Not Defined
+"
+10-10-2016,10-10-2016,17:22:00,17:28:00,6,Business,Islamabad,Islamabad,1.7,"Not Defined
+"
+10-10-2016,10-10-2016,17:33:00,18:13:00,40,Business,Islamabad,Unknown Location,9.5,"Not Defined
+"
+11-10-2016,11-10-2016,01:27:00,02:08:00,41,Business,Unknown Location,Rawalpindi,17.1,"Meeting"
+12-10-2016,12-10-2016,19:18:00,19:21:00,3,Business,Rawalpindi,Unknown Location,18.4,"Not Defined
+"
+13-10-2016,13-10-2016,11:20:00,11:58:00,38,Business,Unknown Location,Islamabad,9.8,"Not Defined
+"
+13-10-2016,13-10-2016,12:08:00,12:14:00,6,Business,Islamabad,Islamabad,1,"Not Defined
+"
+13-10-2016,13-10-2016,13:02:00,13:02:00,0,Business,Islamabad,Islamabad,0.7,"Not Defined
+"
+13-10-2016,13-10-2016,13:37:00,13:46:00,9,Business,Islamabad,Islamabad,2.3,"Not Defined
+"
+13-10-2016,13-10-2016,16:08:00,16:53:00,45,Business,Islamabad,Unknown Location,10.9,"Not Defined
+"
+14-10-2016,14-10-2016,08:50:00,09:44:00,54,Business,Unknown Location,Rawalpindi,12.7,"Not Defined
+"
+14-10-2016,14-10-2016,10:16:00,10:52:00,36,Business,Rawalpindi,Unknown Location,12.4,"Not Defined
+"
+14-10-2016,15-10-2016,23:54:00,02:06:00,132,Business,Unknown Location,Rawalpindi,17,"Meeting"
+15-10-2016,15-10-2016,22:28:00,22:48:00,20,Business,Morrisville,Morrisville,6.2,"Not Defined
+"
+16-10-2016,16-10-2016,00:01:00,00:14:00,13,Business,Morrisville,Cary,3.1,"Not Defined
+"
+16-10-2016,16-10-2016,12:52:00,13:11:00,19,Business,Cary,Durham,10.5,"Meeting"
+16-10-2016,16-10-2016,14:40:00,15:01:00,21,Business,Durham,Morrisville,8.1,"Not Defined
+"
+16-10-2016,16-10-2016,15:10:00,15:19:00,9,Business,Morrisville,Cary,3.1,"Not Defined
+"
+16-10-2016,16-10-2016,19:27:00,19:33:00,6,Business,Whitebridge,Parkway,2.1,"Meeting"
+16-10-2016,16-10-2016,20:30:00,20:39:00,9,Business,Cary,Morrisville,4.3,"Not Defined
+"
+16-10-2016,16-10-2016,21:34:00,21:41:00,7,Business,Morrisville,Cary,2.5,"Meal/Entertain"
+17-10-2016,17-10-2016,15:19:00,15:57:00,38,Business,Cary,Raleigh,20.6,"Not Defined
+"
+17-10-2016,17-10-2016,16:29:00,17:11:00,42,Business,Raleigh,Cary,17.6,"Not Defined
+"
+17-10-2016,17-10-2016,18:02:00,18:16:00,14,Business,Cary,Apex,5.6,"Not Defined
+"
+17-10-2016,17-10-2016,18:31:00,18:45:00,14,Business,Apex,Apex,3.3,"Not Defined
+"
+17-10-2016,17-10-2016,19:08:00,19:25:00,17,Business,Apex,Cary,5.3,"Not Defined
+"
+18-10-2016,18-10-2016,08:12:00,08:22:00,10,Business,Whitebridge,Edgehill Farms,3.3,"Not Defined
+"
+18-10-2016,18-10-2016,08:53:00,09:02:00,9,Business,Edgehill Farms,Whitebridge,3.3,"Not Defined
+"
+18-10-2016,18-10-2016,10:41:00,11:09:00,28,Business,Cary,Morrisville,7.9,"Temporary Site"
+18-10-2016,18-10-2016,18:12:00,18:33:00,21,Business,Oakland,Emeryville,13,"Not Defined
+"
+18-10-2016,18-10-2016,19:03:00,19:13:00,10,Business,Emeryville,Berkeley,3,"Not Defined
+"
+18-10-2016,18-10-2016,20:31:00,20:37:00,6,Business,Berkeley,Emeryville,3,"Not Defined
+"
+19-10-2016,19-10-2016,09:33:00,09:47:00,14,Business,Emeryville,Oakland,3.8,"Not Defined
+"
+19-10-2016,19-10-2016,09:54:00,10:21:00,27,Business,Oakland,San Francisco,9.5,"Not Defined
+"
+19-10-2016,19-10-2016,13:45:00,13:56:00,11,Business,SOMISSPO,French Quarter,1.7,"Not Defined
+"
+19-10-2016,19-10-2016,14:02:00,14:31:00,29,Business,San Francisco,Berkeley,10.8,"Not Defined
+"
+19-10-2016,19-10-2016,15:44:00,16:02:00,18,Business,West Berkeley,North Berkeley Hills,4.1,"Not Defined
+"
+19-10-2016,19-10-2016,16:06:00,16:19:00,13,Business,North Berkeley Hills,Southside,2.2,"Not Defined
+"
+19-10-2016,19-10-2016,16:33:00,17:01:00,28,Business,Berkeley,Emeryville,4.6,"Not Defined
+"
+20-10-2016,20-10-2016,11:26:00,11:34:00,8,Business,Emeryville,Berkeley,3.1,"Not Defined
+"
+20-10-2016,20-10-2016,12:19:00,13:17:00,58,Business,Berkeley,San Jose,47.7,"Not Defined
+"
+20-10-2016,20-10-2016,20:44:00,21:37:00,53,Business,San Jose,Emeryville,44.6,"Not Defined
+"
+21-10-2016,21-10-2016,10:06:00,10:21:00,15,Business,Emeryville,Oakland,13.2,"Not Defined
+"
+22-10-2016,22-10-2016,00:54:00,01:09:00,15,Business,Morrisville,Cary,8.7,"Not Defined
+"
+22-10-2016,22-10-2016,13:26:00,14:03:00,37,Business,Cary,Raleigh,17.2,"Not Defined
+"
+22-10-2016,22-10-2016,17:08:00,17:55:00,47,Business,Raleigh,Cary,14,"Not Defined
+"
+23-10-2016,23-10-2016,09:24:00,10:05:00,41,Business,Cary,Raleigh,28.1,"Not Defined
+"
+23-10-2016,23-10-2016,12:17:00,12:59:00,42,Business,Raleigh,Cary,28.2,"Not Defined
+"
+23-10-2016,23-10-2016,19:04:00,19:14:00,10,Business,Cary,Morrisville,3.1,"Meal/Entertain"
+23-10-2016,23-10-2016,21:10:00,21:25:00,15,Business,Morrisville,Cary,3.1,"Customer Visit"
+24-10-2016,24-10-2016,14:57:00,15:26:00,29,Business,Cary,Durham,16.4,"Not Defined
+"
+24-10-2016,24-10-2016,15:33:00,16:13:00,40,Business,Durham,Morrisville,15.4,"Not Defined
+"
+24-10-2016,24-10-2016,16:34:00,16:41:00,7,Business,Morrisville,Cary,2.2,"Not Defined
+"
+25-10-2016,25-10-2016,13:27:00,14:08:00,41,Business,Cary,Apex,11.2,"Not Defined
+"
+25-10-2016,25-10-2016,15:04:00,15:11:00,7,Business,Apex,Eagle Rock,2.2,"Not Defined
+"
+25-10-2016,25-10-2016,15:16:00,15:33:00,17,Business,Eagle Rock,Cary,3.6,"Not Defined
+"
+25-10-2016,25-10-2016,20:00:00,20:11:00,11,Business,Whitebridge,Savon Height,3.6,"Meal/Entertain"
+25-10-2016,25-10-2016,20:54:00,21:03:00,9,Business,Savon Height,Parkway,4.9,"Not Defined
+"
+25-10-2016,25-10-2016,22:24:00,22:45:00,21,Business,Parkway,Whitebridge,8.7,"Errand/Supplies"
+26-10-2016,26-10-2016,19:25:00,19:31:00,6,Business,Whitebridge,Parkway,2.1,"Meeting"
+26-10-2016,26-10-2016,20:53:00,21:03:00,10,Business,Parkway,Whitebridge,2.1,"Not Defined
+"
+27-10-2016,27-10-2016,18:51:00,19:16:00,25,Business,Cary,Morrisville,8.4,"Meeting"
+27-10-2016,27-10-2016,19:20:00,19:35:00,15,Business,Morrisville,Morrisville,5.9,"Not Defined
+"
+27-10-2016,27-10-2016,19:52:00,20:21:00,29,Business,Huntington Woods,Huntington Woods,12.1,"Not Defined
+"
+27-10-2016,27-10-2016,20:47:00,20:54:00,7,Business,Huntington Woods,Weston,3.9,"Not Defined
+"
+27-10-2016,27-10-2016,21:26:00,21:48:00,22,Business,Morrisville,Cary,6.2,"Not Defined
+"
+28-10-2016,28-10-2016,11:34:00,11:52:00,18,Business,Cary,Durham,10.4,"Meeting"
+28-10-2016,28-10-2016,13:06:00,13:36:00,30,Business,Durham,Cary,9.9,"Meeting"
+28-10-2016,28-10-2016,15:53:00,17:59:00,126,Business,Cary,Winston Salem,107,"Meeting"
+28-10-2016,28-10-2016,18:13:00,20:07:00,114,Business,Winston Salem,Asheville,133.6,"Meeting"
+28-10-2016,28-10-2016,20:13:00,22:00:00,107,Business,Asheville,Topton,91.8,"Meeting"
+29-10-2016,29-10-2016,15:22:00,17:05:00,103,Business,Topton,Hayesville,40.7,"Meeting"
+29-10-2016,29-10-2016,17:13:00,19:19:00,126,Business,Hayesville,Topton,75.7,"Not Defined
+"
+30-10-2016,30-10-2016,07:49:00,08:30:00,41,Business,Topton,Bryson City,29.8,"Not Defined
+"
+30-10-2016,30-10-2016,09:07:00,10:09:00,62,Business,Bryson City,Bryson City,16.3,"Not Defined
+"
+30-10-2016,30-10-2016,10:11:00,10:38:00,27,Business,Bryson City,Bryson City,6.5,"Not Defined
+"
+30-10-2016,30-10-2016,10:51:00,11:21:00,30,Business,Bryson City,Bryson City,6.3,"Not Defined
+"
+30-10-2016,30-10-2016,12:24:00,12:35:00,11,Business,Bryson City,Almond,6.6,"Not Defined
+"
+30-10-2016,30-10-2016,12:58:00,13:18:00,20,Business,Almond,Bryson City,15.2,"Not Defined
+"
+30-10-2016,30-10-2016,13:24:00,14:37:00,73,Business,Bryson City,Asheville,68.4,"Not Defined
+"
+30-10-2016,30-10-2016,15:22:00,18:23:00,181,Business,Asheville,Mebane,195.9,"Not Defined
+"
+30-10-2016,30-10-2016,18:26:00,19:39:00,73,Business,Mebane,Cary,45.2,"Not Defined
+"
+31-10-2016,31-10-2016,18:11:00,18:20:00,9,Business,Cary,Morrisville,3.2,"Not Defined
+"
+31-10-2016,31-10-2016,18:47:00,19:16:00,29,Business,Morrisville,Raleigh,10.3,"Not Defined
+"
+31-10-2016,31-10-2016,20:18:00,20:44:00,26,Business,Raleigh,Cary,13.1,"Not Defined
+"
+31-10-2016,31-10-2016,21:45:00,22:10:00,25,Business,Savon Height,Whitebridge,9.6,"Errand/Supplies"
+01-11-2016,01-11-2016,11:50:00,12:27:00,37,Business,Cary,Durham,16.5,"Not Defined
+"
+01-11-2016,01-11-2016,16:29:00,17:02:00,33,Business,Durham,Cary,12.8,"Not Defined
+"
+01-11-2016,01-11-2016,17:35:00,17:42:00,7,Business,Whitebridge,Whitebridge,1.2,"Not Defined
+"
+01-11-2016,01-11-2016,19:14:00,19:20:00,6,Business,Whitebridge,Whitebridge,1,"Not Defined
+"
+01-11-2016,01-11-2016,19:59:00,20:12:00,13,Business,Whitebridge,Whitebridge,4.1,"Not Defined
+"
+01-11-2016,01-11-2016,20:41:00,20:55:00,14,Business,Whitebridge,Whitebridge,4.2,"Meal/Entertain"
+02-11-2016,02-11-2016,15:10:00,15:18:00,8,Business,Whitebridge,Westpark Place,1.4,"Not Defined
+"
+02-11-2016,02-11-2016,15:45:00,15:52:00,7,Business,Westpark Place,Whitebridge,1.8,"Not Defined
+"
+02-11-2016,02-11-2016,16:46:00,17:11:00,25,Business,Cary,Morrisville,8.5,"Meeting"
+02-11-2016,02-11-2016,17:34:00,17:49:00,15,Business,Morrisville,Morrisville,5,"Not Defined
+"
+02-11-2016,02-11-2016,17:53:00,18:00:00,7,Business,Morrisville,Cary,3.8,"Not Defined
+"
+03-11-2016,03-11-2016,11:28:00,11:34:00,6,Business,Whitebridge,Hazelwood,2.5,"Not Defined
+"
+03-11-2016,03-11-2016,12:43:00,12:49:00,6,Business,Hazelwood,Whitebridge,2.4,"Not Defined
+"
+03-11-2016,03-11-2016,13:42:00,13:47:00,5,Business,Whitebridge,Westpark Place,1.4,"Not Defined
+"
+03-11-2016,03-11-2016,14:13:00,14:26:00,13,Business,Westpark Place,Whitebridge,1.8,"Not Defined
+"
+03-11-2016,03-11-2016,18:51:00,19:08:00,17,Business,Cary,Morrisville,3.1,"Meal/Entertain"
+03-11-2016,03-11-2016,22:46:00,22:58:00,12,Business,Morrisville,Cary,3.1,"Customer Visit"
+04-11-2016,04-11-2016,10:02:00,10:18:00,16,Business,Cary,Morrisville,7.9,"Temporary Site"
+04-11-2016,04-11-2016,18:14:00,18:21:00,7,Business,San Jose,Santa Clara,3.8,"Not Defined
+"
+04-11-2016,04-11-2016,21:04:00,21:20:00,16,Business,Agnew,Cory,4.3,"Not Defined
+"
+04-11-2016,04-11-2016,22:12:00,22:25:00,13,Business,Cory,Agnew,3.9,"Not Defined
+"
+05-11-2016,05-11-2016,08:34:00,08:43:00,9,Business,Agnew,Renaissance,2.2,"Not Defined
+"
+05-11-2016,05-11-2016,17:29:00,17:40:00,11,Business,Renaissance,Agnew,2.8,"Not Defined
+"
+05-11-2016,05-11-2016,19:20:00,19:28:00,8,Business,Agnew,Agnew,2.2,"Not Defined
+"
+06-11-2016,06-11-2016,10:50:00,11:04:00,14,Business,Agnew,Renaissance,2.4,"Not Defined
+"
+06-11-2016,06-11-2016,16:05:00,16:22:00,17,Business,Renaissance,Agnew,2.8,"Meeting"
+06-11-2016,06-11-2016,16:27:00,17:28:00,61,Business,Santa Clara,Berkeley,43.9,"Customer Visit"
+06-11-2016,06-11-2016,19:04:00,19:12:00,8,Business,Downtown,West Berkeley,1.8,"Not Defined
+"
+06-11-2016,06-11-2016,20:06:00,20:21:00,15,Business,West Berkeley,Central,3.3,"Not Defined
+"
+07-11-2016,07-11-2016,12:28:00,12:57:00,29,Business,Berkeley,San Francisco,11.8,"Between Offices"
+07-11-2016,07-11-2016,19:17:00,19:57:00,40,Business,San Francisco,Berkeley,13.2,"Between Offices"
+08-11-2016,08-11-2016,10:29:00,10:57:00,28,Business,Berkeley,San Francisco,12.2,"Between Offices"
+08-11-2016,08-11-2016,12:16:00,12:49:00,33,Business,San Francisco,Berkeley,11.3,"Meeting"
+08-11-2016,08-11-2016,13:41:00,14:01:00,20,Business,Berkeley,Emeryville,3.6,"Not Defined
+"
+08-11-2016,08-11-2016,16:21:00,16:34:00,13,Business,Emeryville,Berkeley,3,"Not Defined
+"
+09-11-2016,09-11-2016,13:08:00,13:41:00,33,Business,Berkeley,San Francisco,11.4,"Not Defined
+"
+09-11-2016,09-11-2016,15:58:00,16:04:00,6,Business,NOMA,Downtown,0.9,"Not Defined
+"
+09-11-2016,09-11-2016,17:31:00,18:03:00,32,Business,Downtown,Sunnyside,6.2,"Not Defined
+"
+09-11-2016,09-11-2016,18:09:00,18:14:00,5,Business,Sunnyside,Ingleside,0.7,"Not Defined
+"
+09-11-2016,09-11-2016,18:21:00,18:35:00,14,Business,Ingleside,Potrero Flats,5.5,"Meeting"
+09-11-2016,09-11-2016,18:40:00,19:17:00,37,Business,San Francisco,Oakland,12.7,"Customer Visit"
+09-11-2016,09-11-2016,20:52:00,21:02:00,10,Business,Oakland,Berkeley,2.6,"Not Defined
+"
+09-11-2016,09-11-2016,21:56:00,22:02:00,6,Business,Central,Central,1.1,"Not Defined
+"
+10-11-2016,10-11-2016,09:46:00,10:15:00,29,Business,Berkeley,San Francisco,12.6,"Temporary Site"
+10-11-2016,10-11-2016,10:20:00,10:31:00,11,Business,Tenderloin,SOMISSPO,1.2,"Not Defined
+"
+10-11-2016,10-11-2016,14:57:00,15:07:00,10,Business,SOMISSPO,Tenderloin,1.1,"Not Defined
+"
+10-11-2016,10-11-2016,15:17:00,15:22:00,5,Business,San Francisco,Oakland,9.9,"Temporary Site"
+10-11-2016,10-11-2016,15:30:00,15:53:00,23,Business,Oakland,Berkeley,6,"Meeting"
+10-11-2016,10-11-2016,19:18:00,19:21:00,3,Business,West Berkeley,Central,0.8,"Not Defined
+"
+11-11-2016,11-11-2016,09:35:00,10:23:00,48,Business,Berkeley,Menlo Park,45.9,"Customer Visit"
+11-11-2016,11-11-2016,12:58:00,13:13:00,15,Business,Menlo Park,Palo Alto,4,"Not Defined
+"
+11-11-2016,11-11-2016,14:20:00,14:32:00,12,Business,Palo Alto,Menlo Park,2.5,"Not Defined
+"
+11-11-2016,11-11-2016,14:39:00,15:46:00,67,Business,Menlo Park,Berkeley,36.6,"Customer Visit"
+11-11-2016,11-11-2016,18:30:00,18:43:00,13,Business,Central,College Avenue,2.9,"Not Defined
+"
+11-11-2016,11-11-2016,21:08:00,21:18:00,10,Business,College Avenue,Central,2.6,"Not Defined
+"
+12-11-2016,12-11-2016,10:32:00,10:52:00,20,Business,Central,South,2.3,"Not Defined
+"
+12-11-2016,12-11-2016,10:55:00,11:25:00,30,Business,South,Downtown,6.4,"Not Defined
+"
+12-11-2016,12-11-2016,13:07:00,13:15:00,8,Business,Downtown,Central,1.4,"Not Defined
+"
+12-11-2016,12-11-2016,13:46:00,13:50:00,4,Business,Central,West Berkeley,0.6,"Not Defined
+"
+12-11-2016,12-11-2016,14:22:00,14:53:00,31,Business,West Berkeley,South,5.9,"Meeting"
+12-11-2016,12-11-2016,15:14:00,15:21:00,7,Business,South,Southwest Berkeley,0.8,"Not Defined
+"
+12-11-2016,12-11-2016,15:25:00,15:36:00,11,Business,Berkeley,Emeryville,1.3,"Not Defined
+"
+12-11-2016,12-11-2016,15:40:00,15:59:00,19,Business,Emeryville,Berkeley,3.7,"Errand/Supplies"
+13-11-2016,13-11-2016,08:54:00,09:02:00,8,Business,Central,Central,2.3,"Not Defined
+"
+13-11-2016,13-11-2016,09:27:00,09:53:00,26,Business,Central,Central,2.6,"Not Defined
+"
+13-11-2016,13-11-2016,10:31:00,10:37:00,6,Business,Central,Southside,1.9,"Not Defined
+"
+13-11-2016,13-11-2016,11:04:00,11:16:00,12,Business,Southside,West Berkeley,2.1,"Not Defined
+"
+13-11-2016,13-11-2016,12:22:00,12:51:00,29,Business,West Berkeley,Southside,4,"Meeting"
+13-11-2016,13-11-2016,13:05:00,13:11:00,6,Business,Southside,South Berkeley,0.9,"Not Defined
+"
+13-11-2016,13-11-2016,13:14:00,13:18:00,4,Business,South Berkeley,Southside,0.9,"Not Defined
+"
+13-11-2016,13-11-2016,14:35:00,14:46:00,11,Business,Southside,Central,2.4,"Not Defined
+"
+13-11-2016,13-11-2016,15:14:00,15:24:00,10,Business,Central,Southside,1.9,"Not Defined
+"
+13-11-2016,13-11-2016,15:47:00,15:59:00,12,Business,Southside,Central,1.9,"Not Defined
+"
+14-11-2016,14-11-2016,11:24:00,12:13:00,49,Business,Berkeley,Mountain View,44.6,"Customer Visit"
+14-11-2016,14-11-2016,13:40:00,14:33:00,53,Business,Mountain View,Berkeley,43.6,"Customer Visit"
+14-11-2016,14-11-2016,15:27:00,15:36:00,9,Business,Berkeley,Emeryville,2.5,"Not Defined
+"
+14-11-2016,14-11-2016,20:19:00,20:30:00,11,Business,Emeryville,Berkeley,3.7,"Errand/Supplies"
+15-11-2016,15-11-2016,13:59:00,14:06:00,7,Business,Berkeley,Oakland,5.1,"Not Defined
+"
+15-11-2016,15-11-2016,14:09:00,14:26:00,17,Business,Oakland,San Francisco,9.7,"Temporary Site"
+15-11-2016,15-11-2016,20:44:00,21:00:00,16,Business,San Francisco,Berkeley,11.8,"Temporary Site"
+16-11-2016,16-11-2016,20:21:00,20:27:00,6,Business,Berkeley,El Cerrito,2.3,"Temporary Site"
+16-11-2016,16-11-2016,22:52:00,23:02:00,10,Business,El Cerrito,Berkeley,3.1,"Meal/Entertain"
+17-11-2016,17-11-2016,10:13:00,10:44:00,31,Business,Berkeley,Oakland,16.3,"Customer Visit"
+18-11-2016,18-11-2016,20:09:00,20:19:00,10,Business,Cary,Morrisville,3.1,"Meal/Entertain"
+18-11-2016,18-11-2016,21:23:00,21:34:00,11,Business,Morrisville,Cary,5.2,"Meal/Entertain"
+18-11-2016,18-11-2016,21:56:00,22:21:00,25,Business,Krendle Woods,Whitebridge,6.1,"Meeting"
+19-11-2016,19-11-2016,13:51:00,14:10:00,19,Business,Cary,Durham,10.3,"Meeting"
+19-11-2016,19-11-2016,14:30:00,14:51:00,21,Business,Durham,Cary,10.5,"Meeting"
+19-11-2016,19-11-2016,16:01:00,16:06:00,5,Business,Cary,Cary,1.5,"Not Defined
+"
+19-11-2016,19-11-2016,16:27:00,16:41:00,14,Business,Cary,Cary,1.8,"Not Defined
+"
+19-11-2016,19-11-2016,17:41:00,17:54:00,13,Business,Cary,Apex,5.4,"Errand/Supplies"
+19-11-2016,19-11-2016,21:14:00,21:35:00,21,Business,Apex,Cary,5.4,"Customer Visit"
+20-11-2016,20-11-2016,10:27:00,11:32:00,65,Business,Cary,Cary,39.2,"Between Offices"
+20-11-2016,20-11-2016,11:58:00,12:28:00,30,Business,Cary,Cary,6.4,"Customer Visit"
+20-11-2016,20-11-2016,14:58:00,15:07:00,9,Business,Cary,Cary,2.7,"Meeting"
+20-11-2016,20-11-2016,17:45:00,18:37:00,52,Business,Cary,Cary,18.5,"Errand/Supplies"
+21-11-2016,21-11-2016,13:37:00,13:49:00,12,Business,Cary,Cary,2.5,"Meal/Entertain"
+21-11-2016,21-11-2016,14:34:00,14:44:00,10,Business,Cary,Cary,2.1,"Meal/Entertain"
+21-11-2016,21-11-2016,17:50:00,18:04:00,14,Business,Cary,Unknown Location,6.7,"Errand/Supplies"
+21-11-2016,21-11-2016,18:18:00,18:27:00,9,Business,Unknown Location,Morrisville,3.5,"Meal/Entertain"
+21-11-2016,21-11-2016,18:43:00,18:51:00,8,Business,Morrisville,Cary,3.4,"Errand/Supplies"
+22-11-2016,22-11-2016,15:12:00,15:27:00,15,Business,Cary,Cary,5.5,"Meeting"
+22-11-2016,22-11-2016,15:31:00,15:44:00,13,Business,Cary,Cary,4.1,"Meeting"
+22-11-2016,22-11-2016,15:51:00,16:43:00,52,Business,Cary,Cary,12.7,"Customer Visit"
+22-11-2016,22-11-2016,18:18:00,18:28:00,10,Business,Cary,Morrisville,3,"Meal/Entertain"
+22-11-2016,22-11-2016,21:02:00,21:14:00,12,Business,Morrisville,Cary,3.5,"Customer Visit"
+23-11-2016,23-11-2016,15:34:00,15:50:00,16,Business,Cary,Cary,5.9,"Meal/Entertain"
+23-11-2016,23-11-2016,16:18:00,16:29:00,11,Business,Cary,Cary,1.9,"Not Defined
+"
+23-11-2016,23-11-2016,16:49:00,17:00:00,11,Business,Cary,Cary,3.3,"Not Defined
+"
+23-11-2016,23-11-2016,18:37:00,18:47:00,10,Business,Cary,Cary,1.3,"Not Defined
+"
+25-11-2016,25-11-2016,11:47:00,12:04:00,17,Business,Cary,Durham,10.3,"Meeting"
+25-11-2016,25-11-2016,13:13:00,13:31:00,18,Business,Durham,Cary,11.1,"Meeting"
+26-11-2016,26-11-2016,15:54:00,15:59:00,5,Business,Cary,Cary,1.4,"Not Defined
+"
+26-11-2016,26-11-2016,17:00:00,17:12:00,12,Business,Cary,Apex,5.1,"Meeting"
+26-11-2016,26-11-2016,17:36:00,17:56:00,20,Business,Apex,Holly Springs,9,"Meeting"
+26-11-2016,26-11-2016,18:29:00,19:04:00,35,Business,Holly Springs,Cary,13.3,"Between Offices"
+26-11-2016,26-11-2016,19:47:00,19:54:00,7,Business,Cary,Cary,2.5,"Errand/Supplies"
+27-11-2016,27-11-2016,15:59:00,16:06:00,7,Business,Cary,Morrisville,3.3,"Meal/Entertain"
+27-11-2016,27-11-2016,18:55:00,19:09:00,14,Business,Morrisville,Cary,2.9,"Not Defined
+"
+30-11-2016,30-11-2016,11:03:00,11:34:00,31,Business,Cary,Raleigh,8.5,"Customer Visit"
+30-11-2016,30-11-2016,11:53:00,12:35:00,42,Business,Raleigh,Morrisville,6.7,"Temporary Site"
+30-11-2016,30-11-2016,12:43:00,12:53:00,10,Business,Morrisville,Cary,3.1,"Not Defined
+"
+01-12-2016,01-12-2016,07:44:00,07:59:00,15,Business,Cary,Cary,5.5,"Meeting"
+01-12-2016,01-12-2016,08:37:00,08:53:00,16,Business,Cary,Cary,5.5,"Errand/Supplies"
+01-12-2016,01-12-2016,18:00:00,18:12:00,12,Business,Cary,Morrisville,2.9,"Meal/Entertain"
+01-12-2016,01-12-2016,20:36:00,20:46:00,10,Business,Morrisville,Cary,2.9,"Customer Visit"
+02-12-2016,02-12-2016,12:12:00,12:23:00,11,Business,Cary,Apex,5.1,"Meal/Entertain"
+02-12-2016,02-12-2016,13:07:00,13:22:00,15,Business,Apex,Cary,5.3,"Customer Visit"
+02-12-2016,02-12-2016,20:41:00,20:48:00,7,Business,Cary,Morrisville,3.3,"Meal/Entertain"
+02-12-2016,02-12-2016,22:59:00,23:07:00,8,Business,Morrisville,Cary,3,"Customer Visit"
+03-12-2016,03-12-2016,18:35:00,18:56:00,21,Business,Cary,Wake Co.,6.6,"Errand/Supplies"
+03-12-2016,03-12-2016,19:08:00,19:15:00,7,Business,Wake Co.,Morrisville,1.8,"Not Defined
+"
+03-12-2016,03-12-2016,20:31:00,20:41:00,10,Business,Morrisville,Cary,3,"Customer Visit"
+04-12-2016,04-12-2016,18:56:00,19:03:00,7,Business,Cary,Morrisville,2.9,"Meal/Entertain"
+04-12-2016,04-12-2016,20:23:00,20:34:00,11,Business,Morrisville,Cary,3.4,"Customer Visit"
+05-12-2016,05-12-2016,18:04:00,18:17:00,13,Business,Cary,Cary,4.1,"Not Defined
+"
+05-12-2016,05-12-2016,19:22:00,19:37:00,15,Business,Cary,Cary,3.8,"Meal/Entertain"
+07-12-2016,07-12-2016,12:03:00,12:32:00,29,Business,Cary,Cary,6.6,"Meeting"
+07-12-2016,07-12-2016,12:35:00,12:46:00,11,Business,Cary,Cary,4,"Meeting"
+07-12-2016,07-12-2016,19:53:00,20:13:00,20,Business,Cary,Cary,7,"Customer Visit"
+07-12-2016,07-12-2016,21:13:00,21:50:00,37,Business,Cary,Cary,6.9,"Meal/Entertain"
+08-12-2016,08-12-2016,14:19:00,14:32:00,13,Business,Cary,Cary,3.4,"Errand/Supplies"
+08-12-2016,08-12-2016,14:53:00,15:02:00,9,Business,Cary,Cary,3.4,"Errand/Supplies"
+08-12-2016,08-12-2016,19:22:00,19:27:00,5,Business,Cary,Cary,2,"Meeting"
+08-12-2016,08-12-2016,21:26:00,21:31:00,5,Business,Cary,Cary,2,"Errand/Supplies"
+09-12-2016,09-12-2016,12:09:00,12:24:00,15,Business,Cary,Apex,5.1,"Errand/Supplies"
+09-12-2016,09-12-2016,13:15:00,13:43:00,28,Business,Apex,Cary,8.8,"Temporary Site"
+09-12-2016,09-12-2016,20:11:00,20:34:00,23,Business,Cary,Cary,5.6,"Meeting"
+09-12-2016,09-12-2016,22:03:00,22:57:00,54,Business,Cary,Cary,18.9,"Customer Visit"
+10-12-2016,10-12-2016,12:43:00,13:16:00,33,Business,Cary,Fuquay-Varina,15.6,"Meeting"
+10-12-2016,10-12-2016,14:42:00,15:18:00,36,Business,Fuquay-Varina,Cary,15.6,"Errand/Supplies"
+10-12-2016,10-12-2016,18:17:00,18:27:00,10,Business,Cary,Morrisville,3,"Meal/Entertain"
+10-12-2016,10-12-2016,22:09:00,22:21:00,12,Business,Morrisville,Cary,3.1,"Customer Visit"
+11-12-2016,11-12-2016,16:06:00,16:16:00,10,Business,Cary,Morrisville,3,"Meal/Entertain"
+11-12-2016,11-12-2016,19:05:00,19:15:00,10,Business,Morrisville,Cary,4.8,"Errand/Supplies"
+11-12-2016,11-12-2016,21:48:00,21:56:00,8,Business,Cary,Cary,2.1,"Errand/Supplies"
+12-12-2016,12-12-2016,13:22:00,13:32:00,10,Business,Cary,Cary,3.1,"Errand/Supplies"
+12-12-2016,12-12-2016,13:36:00,13:51:00,15,Business,Cary,Apex,4.4,"Meal/Entertain"
+12-12-2016,12-12-2016,14:26:00,14:39:00,13,Business,Apex,Cary,4.7,"Customer Visit"
+12-12-2016,12-12-2016,17:51:00,18:01:00,10,Business,Cary,Morrisville,3,"Meal/Entertain"
+12-12-2016,12-12-2016,20:48:00,20:57:00,9,Business,Morrisville,Cary,3,"Customer Visit"
+13-12-2016,13-12-2016,18:19:00,18:29:00,10,Business,Cary,Cary,4.2,"Errand/Supplies"
+13-12-2016,13-12-2016,20:20:00,20:29:00,9,Business,Cary,Cary,4.1,"Meal/Entertain"
+14-12-2016,14-12-2016,16:52:00,17:10:00,18,Business,Cary,Cary,3.4,"Not Defined
+"
+14-12-2016,14-12-2016,17:22:00,17:34:00,12,Business,Cary,Cary,3.3,"Not Defined
+"
+14-12-2016,14-12-2016,17:50:00,18:00:00,10,Business,Cary,Morrisville,3,"Meal/Entertain"
+14-12-2016,14-12-2016,20:24:00,20:40:00,16,Business,Morrisville,Cary,3.1,"Customer Visit"
+15-12-2016,15-12-2016,14:20:00,14:54:00,34,Business,Cary,Morrisville,10.6,"Meeting"
+19-12-2016,19-12-2016,09:08:00,09:36:00,28,Business,Unknown Location,Islamabad,7.7,"Errand/Supplies"
+19-12-2016,19-12-2016,10:15:00,10:34:00,19,Business,Islamabad,Rawalpindi,5.9,"Temporary Site"
+19-12-2016,19-12-2016,13:04:00,13:08:00,4,Business,Rawalpindi,Unknown Location,0.7,"Errand/Supplies"
+19-12-2016,19-12-2016,15:09:00,15:38:00,29,Business,Unknown Location,Rawalpindi,10.2,"Customer Visit"
+19-12-2016,19-12-2016,16:50:00,17:09:00,19,Business,Rawalpindi,Islamabad,7.2,"Customer Visit"
+19-12-2016,19-12-2016,19:05:00,19:17:00,12,Business,Islamabad,Unknown Location,2.2,"Not Defined
+"
+20-12-2016,20-12-2016,08:49:00,09:24:00,35,Business,Unknown Location,Rawalpindi,12,"Not Defined
+"
+20-12-2016,20-12-2016,10:30:00,10:48:00,18,Business,Rawalpindi,Rawalpindi,3.3,"Errand/Supplies"
+20-12-2016,20-12-2016,11:30:00,12:17:00,47,Business,Rawalpindi,Unknown Location,19.4,"Meeting"
+20-12-2016,20-12-2016,13:54:00,14:17:00,23,Business,Unknown Location,Islamabad,5.7,"Temporary Site"
+20-12-2016,20-12-2016,16:14:00,16:24:00,10,Business,Islamabad,Islamabad,1.8,"Errand/Supplies"
+20-12-2016,20-12-2016,16:56:00,17:07:00,11,Business,Islamabad,Islamabad,1.4,"Errand/Supplies"
+20-12-2016,20-12-2016,18:47:00,19:21:00,34,Business,Islamabad,Unknown Location,10.3,"Customer Visit"
+21-12-2016,21-12-2016,10:14:00,10:30:00,16,Business,Unknown Location,Islamabad,4.9,"Errand/Supplies"
+21-12-2016,21-12-2016,11:35:00,11:49:00,14,Business,Islamabad,Unknown Location,3.5,"Meal/Entertain"
+21-12-2016,21-12-2016,15:55:00,16:05:00,10,Business,Unknown Location,Islamabad,2.1,"Errand/Supplies"
+21-12-2016,21-12-2016,17:45:00,17:54:00,9,Business,Islamabad,Islamabad,2.1,"Meeting"
+21-12-2016,21-12-2016,17:59:00,18:31:00,32,Business,Islamabad,Unknown Location,7.2,"Customer Visit"
+21-12-2016,21-12-2016,19:49:00,20:35:00,46,Business,Unknown Location,Rawalpindi,12,"Meeting"
+21-12-2016,21-12-2016,20:56:00,23:42:00,166,Business,Rawalpindi,Unknown Location,103,"Meeting"
+22-12-2016,22-12-2016,19:04:00,19:50:00,46,Business,Unknown Location,Lahore,14,"Meeting"
+22-12-2016,22-12-2016,21:41:00,21:53:00,12,Business,Lahore,Lahore,2.1,"Meal/Entertain"
+22-12-2016,22-12-2016,23:27:00,23:32:00,5,Business,Lahore,Lahore,2.1,"Customer Visit"
+23-12-2016,23-12-2016,09:21:00,09:41:00,20,Business,Lahore,Lahore,3,"Meeting"
+23-12-2016,23-12-2016,11:33:00,11:58:00,25,Business,Lahore,Unknown Location,6.2,"Meeting"
+23-12-2016,23-12-2016,17:34:00,18:27:00,53,Business,Unknown Location,Lahore,7.1,"Meal/Entertain"
+24-12-2016,24-12-2016,07:43:00,08:04:00,21,Business,Lahore,Unknown Location,6.3,"Meal/Entertain"
+24-12-2016,24-12-2016,09:19:00,09:55:00,36,Business,Unknown Location,Lahore,10.7,"Meal/Entertain"
+24-12-2016,24-12-2016,10:34:00,10:53:00,19,Business,Lahore,Lahore,5.3,"Meal/Entertain"
+24-12-2016,24-12-2016,12:51:00,12:53:00,2,Business,Lahore,Lahore,1.6,"Errand/Supplies"
+24-12-2016,24-12-2016,13:08:00,13:29:00,21,Business,Lahore,Lahore,3.6,"Errand/Supplies"
+24-12-2016,24-12-2016,17:12:00,17:27:00,15,Business,Lahore,Lahore,1.7,"Errand/Supplies"
+24-12-2016,24-12-2016,19:12:00,19:27:00,15,Business,Lahore,Lahore,2.9,"Meal/Entertain"
+24-12-2016,24-12-2016,22:04:00,22:09:00,5,Business,Lahore,Lahore,0.6,"Errand/Supplies"
+25-12-2016,25-12-2016,00:10:00,00:14:00,4,Business,Lahore,Lahore,0.6,"Errand/Supplies"
+25-12-2016,25-12-2016,19:15:00,19:26:00,11,Business,Lahore,Lahore,2.3,"Meal/Entertain"
+25-12-2016,25-12-2016,21:58:00,22:04:00,6,Business,Lahore,Lahore,2.3,"Meal/Entertain"
+26-12-2016,26-12-2016,08:30:00,08:41:00,11,Business,Lahore,Lahore,3.2,"Meal/Entertain"
+26-12-2016,26-12-2016,09:05:00,09:19:00,14,Business,Lahore,Lahore,6.2,"Customer Visit"
+26-12-2016,26-12-2016,10:15:00,10:36:00,21,Business,Lahore,Lahore,7.7,"Customer Visit"
+26-12-2016,26-12-2016,11:29:00,11:42:00,13,Business,Lahore,Lahore,3.8,"Customer Visit"
+26-12-2016,26-12-2016,13:09:00,13:43:00,34,Business,Lahore,Unknown Location,7.9,"Meeting"
+27-12-2016,27-12-2016,07:02:00,07:14:00,12,Business,Karachi,Karachi,4.9,"Temporary Site"
+27-12-2016,27-12-2016,08:37:00,08:59:00,22,Business,Karachi,Karachi,5,"Meal/Entertain"
+27-12-2016,27-12-2016,12:53:00,12:57:00,4,Business,Karachi,Karachi,0.6,"Meal/Entertain"
+27-12-2016,27-12-2016,14:49:00,15:03:00,14,Business,Karachi,Unknown Location,3.1,"Customer Visit"
+27-12-2016,27-12-2016,16:34:00,16:58:00,24,Business,Unknown Location,Karachi,7.9,"Meeting"
+27-12-2016,27-12-2016,19:19:00,19:50:00,31,Business,Karachi,Karachi,5.5,"Customer Visit"
+28-12-2016,28-12-2016,08:34:00,09:06:00,32,Business,Karachi,Unknown Location,10.3,"Meal/Entertain"
+28-12-2016,28-12-2016,11:42:00,12:12:00,30,Business,Unknown Location,Karachi,10.4,"Errand/Supplies"
+28-12-2016,28-12-2016,13:53:00,14:01:00,8,Business,Karachi,Karachi,2,"Errand/Supplies"
+28-12-2016,28-12-2016,15:04:00,15:39:00,35,Business,Karachi,Unknown Location,8.5,"Meal/Entertain"
+28-12-2016,28-12-2016,17:02:00,17:16:00,14,Business,Unknown Location,Karachi,4.4,"Errand/Supplies"
+28-12-2016,28-12-2016,18:33:00,18:56:00,23,Business,Karachi,Karachi,3.8,"Errand/Supplies"
+28-12-2016,28-12-2016,22:44:00,23:18:00,34,Business,Karachi,Karachi,5.1,"Errand/Supplies"
+29-12-2016,29-12-2016,00:49:00,01:06:00,17,Business,Karachi,Karachi,3.8,"Errand/Supplies"
+29-12-2016,29-12-2016,09:44:00,10:07:00,23,Business,Karachi,Unknown Location,11.6,"Meal/Entertain"
+29-12-2016,29-12-2016,11:28:00,12:00:00,32,Business,Unknown Location,Karachi,11.9,"Meal/Entertain"
+29-12-2016,29-12-2016,12:25:00,12:33:00,8,Business,Karachi,Karachi,1.4,"Errand/Supplies"
+29-12-2016,29-12-2016,13:17:00,13:24:00,7,Business,Karachi,Karachi,1.1,"Errand/Supplies"
+29-12-2016,29-12-2016,13:56:00,14:11:00,15,Business,Karachi,Karachi,4.1,"Airport/Travel"
+29-12-2016,29-12-2016,14:42:00,14:58:00,16,Business,Karachi,Karachi,6.1,"Between Offices"
+29-12-2016,29-12-2016,15:05:00,15:16:00,11,Business,Karachi,Karachi,1.3,"Errand/Supplies"
+29-12-2016,29-12-2016,18:59:00,19:14:00,15,Business,Karachi,Unknown Location,3,"Meal/Entertain"
+29-12-2016,29-12-2016,19:50:00,20:10:00,20,Business,Unknown Location,Karachi,4.1,"Customer Visit"
+29-12-2016,29-12-2016,20:15:00,20:45:00,30,Business,Karachi,Karachi,7.2,"Meeting"
+29-12-2016,29-12-2016,20:53:00,21:42:00,49,Business,Karachi,Unknown Location,6.4,"Not Defined
+"
+29-12-2016,29-12-2016,23:14:00,23:47:00,33,Business,Unknown Location,Karachi,12.9,"Meeting"
+30-12-2016,30-12-2016,10:15:00,10:33:00,18,Business,Karachi,Karachi,2.8,"Errand/Supplies"
+30-12-2016,30-12-2016,11:31:00,11:56:00,25,Business,Karachi,Karachi,2.9,"Errand/Supplies"
+30-12-2016,30-12-2016,15:41:00,16:03:00,22,Business,Karachi,Karachi,4.6,"Errand/Supplies"
+30-12-2016,30-12-2016,16:45:00,17:08:00,23,Business,Karachi,Karachi,4.6,"Meeting"
+30-12-2016,30-12-2016,23:06:00,23:10:00,4,Business,Karachi,Karachi,0.8,"Customer Visit"
+31-12-2016,31-12-2016,01:07:00,01:14:00,7,Business,Karachi,Karachi,0.7,"Meeting"
+31-12-2016,31-12-2016,13:24:00,13:42:00,18,Business,Karachi,Unknown Location,3.9,"Temporary Site"
+31-12-2016,31-12-2016,21:32:00,21:50:00,18,Business,Katunayake,Gampaha,6.4,"Temporary Site"
+31-12-2016,31-12-2016,22:08:00,23:51:00,103,Business,Gampaha,Ilukwatta,48.2,"Temporary Site"
